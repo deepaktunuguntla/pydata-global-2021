@@ -5,8 +5,8 @@ After three-day long sessions of excellent talks at the global 2021 PyData, belo
 ## Keynotes
 - <b>David Beazley</b>  
 https://zoom.us/rec/share/AUJTje3O5L4v0iHyH87T_clsOZUP6EP3CJ_k2UKUcLRLsjUOwzETYJM4S0S8CXTI.1kORCztQWQ4kITd2?startTime=1635436806000
-- <b></b>  
-
+- <b>Naomi Ceder</b>  
+https://zoom.us/rec/share/tWp3lCVhtBZ0YA94mHQN3whW09gc1AwBQckXidEtxbldrkWwhOY9m3rvDa39PmL_.MwhvPXF6LDYJQr4u?startTime=1635616916000  
 
 ## Introductory
 - <b>Know your data first: An introduction to exploratory data analysis</b>  
