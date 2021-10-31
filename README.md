@@ -17,7 +17,7 @@ https://zoom.us/rec/share/0Gkopugx3rzh3YsXUadjFGej2JHO3BoiUdsG_RWn7JqX7gsL3u555z
 https://zoom.us/rec/share/YBPWTnWgeomwLhi3lJEltAqC0pByZNHZVBDb-UaQ0ze9M5DDXY9ug3tjtMHAx9Mi.r29uRLuZkgoyw7lp?startTime=1635419402000
 - <b>Introduction to quantum computing with Python and Qiskit</b>  
 https://zoom.us/rec/share/2jNbr4u_qn4ecYUXmPtRLpao9KD7cm70Yd31hnXC-CUcMmvJh4wA5d-H3PetA3q0.YUoW5_Sm6_Rs4QL4?startTime=1635499839000
-<b>Lets implement Bayesian ordered logistic regression!</b>  
+- <b>Lets implement Bayesian ordered logistic regression!</b>  
 https://zoom.us/rec/share/-fbWM7-qwpfEogchxTC-YWiGI4uJqiS3gLGQytzQrHcm6__8m0S4JEkF-9saG2c.m2xiAqmch5iR12Ib?startTime=1635521525000
 - <b>Computational survival analysis</b>  
 https://zoom.us/rec/share/i_TIGU29hOeE07xjCM0DuJuOzFxjp-7XhxTLKXDFU1sgdLt2PJeveRnHWeU_Sluj.U6V6dlafHxoOyINw?startTime=1635521499000
