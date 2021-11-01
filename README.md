@@ -29,6 +29,24 @@ Recording coming soon
 https://zoom.us/rec/share/SnvFK-1T5O_Rd3O-MxLtPqiFnU9Trv8coKk1nmEg0YEu_3tGW2n-FsN6sz_9qB6q.nVUnGehCYha8j90j?startTime=1635499977000
 - <b>Introduction to distance metric learning</b>  
 https://zoom.us/rec/share/mXrWjmn8H_pSMFkpjDfS6OfVfQ8Z9NRMb3wjHjiIFpq2jyQQ1IA4SVkBqg2V30bx.3EXZyzqMK_TN3MPj?startTime=1635516007000
+- <b>High performance Python with Numba, Dask and Rapids for the absolute beginner</b>  
+https://zoom.us/rec/share/HZCezj59UGw88oLmpovnvXIqD2UFBI4louzeNE9VKDZvms66XwqoUZDBncVnPXB-.DyzbErAo6tJc7-CF?startTime=1635605232000
+- <b>Storytelling with data - How to turn a basic dataset into a compelling story?</b>  
+https://zoom.us/rec/share/bZPPtqNq4c8DMTDptHNnMamVn09gIkgTTPvVmdPOq62yc2i7e4cJwZ0byeC471Ft.qyq5H4W3mdHK1Spg?startTime=1635606011000
+- <b>Unlocking more from your audio data</b>  
+https://zoom.us/rec/share/4jiit-UUqET5tzEFjCcuYiHDaLi-5MlyP_vBiVJku2T_kWwbdCdYKj8Ac4m_Z2vN.00ZcJTdK6-Szv9TT?startTime=1635606149000
+- <b>An attempt at demystifying graph deep learning</b>  
+https://zoom.us/rec/share/6zFW5jm8ZvWdNCgKOmmEBeMJ1HUI1bKH7nTEPKHXJloqOJxoy04QXM5ffKVjFi5v.bYHifipchtuqoiy8?startTime=1635613299000
+- <b>Uncertainity quantification 360: A hands-on tutorial</b>  
+https://zoom.us/rec/share/vfnCA1I77rsSYzvSQlegS0LUnudcq0ZjxFWDumpdr3bupdyAG2iBX0dUQACQLSla.rY1cr9S5cSL0IkEb?startTime=1635611455000
+- <b>Love your (data scientist) neighbour: Reproducible data science the easydata way</b>  
+https://zoom.us/rec/share/9-4VWjJt_XVej9XMMwsKm8EEWTIxll1chJIC1kTxu9eyXdGJEkZLmAnobXPXjbso.hljvB0UjpDHewBxM?startTime=1635620423000
+- <b>Introduction to unsupervised and semi-supervised learning in Tensorflow</b>  
+https://zoom.us/rec/share/nfrdtSf7DLx1zMDfcikseuTF1iTBwL6JCrtJGumJqHjpIw6DeO6grp3_MHWqtBiE.Rc3TIbYmQSyQTcGH?startTime=1635625950000
+- <b>Using reproducible experiments to create better machine learning models</b>  
+https://zoom.us/rec/share/nfrdtSf7DLx1zMDfcikseuTF1iTBwL6JCrtJGumJqHjpIw6DeO6grp3_MHWqtBiE.Rc3TIbYmQSyQTcGH?startTime=1635631103000
+- <b>Foundational infrastructure to create a successful data science team</b>  
+https://zoom.us/rec/share/jgs_uVreG397j3knVpMxUYxn7U5yZMetg4Ts96kkGNzZWd2I4b_XwK8_ABNezxv3.fV94UCmTI0STgwsq?startTime=1635631300000
 - <b>Building linear programs with ORTools (Tesco)</b>  
 No recording
 
@@ -45,6 +63,10 @@ https://zoom.us/rec/share/5dUuXBGcSY5MYs7CJ8RmAQ5wPh4S0He9il6_0k5BO5BZ-CDOk1wqbB
 https://zoom.us/rec/share/AAqL5-5tQ43ZSgKkTvXsLLHxP3kjDGj866rkMHGzqKqDSWe4Uhe5C40JGOgP3Dae._5oPguwt16VEtq6f?startTime=1635508803000
 - <b> From Jupyter notebook to production web app, with Anvil and (only) Python</b>  
 https://zoom.us/rec/share/2Aitd9WKLXVBTFDhKhm-xy6aDTnGsZQkUtrGFNXSZP6hS6Z8KjCMI77iTshBvdww.-4EAgxOvtam6Knus?startTime=1635519734000
+- <b>Extending Jupyter data visualisations beyond the notebook</b>  
+https://zoom.us/rec/share/nfrdtSf7DLx1zMDfcikseuTF1iTBwL6JCrtJGumJqHjpIw6DeO6grp3_MHWqtBiE.Rc3TIbYmQSyQTcGH?startTime=1635624013000
+- <b>From Jupyter to production: Deploying an influenza monitoring system at scale with wearable sensors</b>  
+https://zoom.us/rec/share/jgs_uVreG397j3knVpMxUYxn7U5yZMetg4Ts96kkGNzZWd2I4b_XwK8_ABNezxv3.fV94UCmTI0STgwsq?startTime=1635629583000
 
 ## Version control
 - <b>DVC showcase - Who moved my data?</b>  
@@ -74,6 +96,10 @@ https://zoom.us/rec/share/MhHxZLi-SMkU3Sewhv7MKLWhgS0y0T7E7xFqAWfukUNdUGtFJFcHxJ
 - <b>Towards cloud-native distributed machine learning pipelines at scale</b>  
 https://www.youtube.com/watch?v=dNzb_-JD6T0  
 https://github.com/terrytangyuan/public-talks/blob/main/talks/towards-cloud-native-distributed-machine-learning-pipelines-at-scale-pydata-global-2021/presentation.pdf
+- <b>Snowflake and Dask: How to scale workloads using distributes fetch capabilities?</b>  
+ https://zoom.us/rec/share/bZPPtqNq4c8DMTDptHNnMamVn09gIkgTTPvVmdPOq62yc2i7e4cJwZ0byeC471Ft.qyq5H4W3mdHK1Spg?startTime=1635609671000
+- <b>Simplifying testing of Spark applications</b>  
+https://zoom.us/rec/share/EZY3slKU8aCA3NFwF5z7JPPOhMjBMwLZ7OFMaGFziTDmKYzb8GgSvtzd18VHkA0A.lcjqG1XwevyCdwa9?startTime=1635611402000
 
 ### Applications
 - <b>Spatial analytics using Dask and Numba</b>  
@@ -120,6 +146,20 @@ https://zoom.us/rec/share/I975sr0BhiK3w22Dgxvi20WAOdOP1bQz9TrnNonGf8RndJifgDKfso
 https://zoom.us/rec/share/YBggDeMce-vY2v8c5en-xAijSr0_r1cmDO4HpmLVRVHFgPrCcVy3zh18AT9vcLO3.IyND-DFUFLq4hw2r?startTime=1635532258000
 - <b>Building a data-driven product from scratch, how hard can it be?</b>  
 https://zoom.us/rec/share/-fbWM7-qwpfEogchxTC-YWiGI4uJqiS3gLGQytzQrHcm6__8m0S4JEkF-9saG2c.m2xiAqmch5iR12Ib?startTime=1635528806000
+- <b>Towards collaborative reproducibility: Pinning respository of binary distributions</b>  
+https://zoom.us/rec/share/IQYqC2B35mC2zB5WyM5yFntjnAbjNLIuTyxV3_72Pq6G2RsCtDhxCtisZDlGEeTm.0W2jkovIwW0WRAx_?startTime=1635579225000
+- <b>Software inspired workflow for data analysis</b>  
+https://zoom.us/rec/share/IQYqC2B35mC2zB5WyM5yFntjnAbjNLIuTyxV3_72Pq6G2RsCtDhxCtisZDlGEeTm.0W2jkovIwW0WRAx_?startTime=1635581173000
+- <b>A first step from AD-HOC SQL to scalable ETL</b>  
+https://zoom.us/rec/share/IQYqC2B35mC2zB5WyM5yFntjnAbjNLIuTyxV3_72Pq6G2RsCtDhxCtisZDlGEeTm.0W2jkovIwW0WRAx_?startTime=1635582657000
+- <b>The prototype hole and tools to help you out of it</b>  
+https://zoom.us/rec/share/_wWaVhUMsTyQ_5kysoEMRZZxjxJjTxufIkczVCjb_ICbFn4nGSBuiw2fj0it1Hkq.1OMGu7LGgpgTnKys?startTime=1635595318000
+- <b>How to detect silent model failures?</b>  
+https://zoom.us/rec/share/_wWaVhUMsTyQ_5kysoEMRZZxjxJjTxufIkczVCjb_ICbFn4nGSBuiw2fj0it1Hkq.1OMGu7LGgpgTnKys?startTime=1635596976000
+- <b>Agile data science: How to implement Agile workflows for analytics and machine learning</b>  
+https://zoom.us/rec/share/ikzMyQEEn1QQzRmotZ-9FlIT-578Xr5HWJjHcnyaKJUhyklfxKWng3jslvZznzaL.Dph4uNCm_muvL4YV?startTime=1635600696000
+- <b>So much data, such poor quality</b>  
+https://zoom.us/rec/share/bZPPtqNq4c8DMTDptHNnMamVn09gIkgTTPvVmdPOq62yc2i7e4cJwZ0byeC471Ft.qyq5H4W3mdHK1Spg?startTime=1635607871000
 
 ## Dashboarding
 - <b>Why interactive data visualisation matter for data science in Python</b>  
@@ -164,14 +204,27 @@ https://zoom.us/rec/share/yPATxs1QUqLhQCNhFEQ7WDvUDMhDB7iNoNaDFSvvm3JaXXsyL92X6L
 Coming soon
 
 ## Good to know
-- <b>Feature stores: An operational bridge between machine learning models and data</b>  
-https://zoom.us/rec/share/Hj6KYCNgoCETZu71ffYroGXa1_aHs9_EJpDif0Q1Nl-L0VMxg3t8Ya_Arjz_tR4v.WJZfEcXURaL6eplq?startTime=1635541275000
-- <b>Why datatimes need units: Avoiding a Y2262 problem harnessing the power of numpy's datetime64</b>  
-https://zoom.us/rec/share/MhHxZLi-SMkU3Sewhv7MKLWhgS0y0T7E7xFqAWfukUNdUGtFJFcHxJf8g2r_dTqq.cBJaD2SZP5P7eLI9?startTime=1635534301000
+- <b>Tech for posterity. Challenges for the future of AI ethics and DEI</b>  
+https://zoom.us/rec/share/g6jgmeeNyFT7j6m9xPPD0cHsVkBKxqIpEPU81PLLIUe3_zNQLWiePSOezf1IAgMI.xr6PsK5WCDDkWM_k?startTime=1635602496000
 - <b>Some attention for attenuation bias</b>  
 https://zoom.us/rec/share/-fbWM7-qwpfEogchxTC-YWiGI4uJqiS3gLGQytzQrHcm6__8m0S4JEkF-9saG2c.m2xiAqmch5iR12Ib?startTime=1635519628000
+- <b>What could possibily go wrong when evaluating forecasts?</b>
+https://zoom.us/rec/share/IQYqC2B35mC2zB5WyM5yFntjnAbjNLIuTyxV3_72Pq6G2RsCtDhxCtisZDlGEeTm.0W2jkovIwW0WRAx_?startTime=1635584328000
+- <b>Modelling aleatoric and epistemix uncertainity using Tensorflow and Tensorflow probability</b>  
+https://zoom.us/rec/share/IQYqC2B35mC2zB5WyM5yFntjnAbjNLIuTyxV3_72Pq6G2RsCtDhxCtisZDlGEeTm.0W2jkovIwW0WRAx_?startTime=1635586276000
 - <b>Simplification as a service</b>  
 https://zoom.us/rec/share/2Aitd9WKLXVBTFDhKhm-xy6aDTnGsZQkUtrGFNXSZP6hS6Z8KjCMI77iTshBvdww.-4EAgxOvtam6Knus?startTime=1635523244000
+- <b>How to gaurantee no one understands what you did in your machine learning project</b>  
+https://zoom.us/rec/share/Cu15SVPlxyhMX6asVRxeIKq60_WwlZ6RtTon3dOodj1S6fBwF39WoxR2yvCmen0S.GCMBHtlx4OLWfRYQ?startTime=1635589959000
+- <b>Making the perfect cup of joa: Active preference learning and optimisation under uncertainity</b>  
+https://zoom.us/rec/share/jgs_uVreG397j3knVpMxUYxn7U5yZMetg4Ts96kkGNzZWd2I4b_XwK8_ABNezxv3.fV94UCmTI0STgwsq?startTime=1635624212000
+- <b>What to do when you can't trust your labels? A practical approach</b>  
+https://zoom.us/rec/share/jgs_uVreG397j3knVpMxUYxn7U5yZMetg4Ts96kkGNzZWd2I4b_XwK8_ABNezxv3.fV94UCmTI0STgwsq?startTime=1635625954000
+- <b>So you wanna be a Pandas expert?</b>  
+pre-recorded tutorial: https://www.youtube.com/watch?v=pjq3QOxl9Ok  
+recording: https://www.youtube.com/watch?v=pjq3QOxl9Ok  
+live Q&A: https://zoom.us/rec/share/HZCezj59UGw88oLmpovnvXIqD2UFBI4louzeNE9VKDZvms66XwqoUZDBncVnPXB-.DyzbErAo6tJc7-CF?startTime=1635598934000
+
 
 ## Explainable AI
 - <b>Counter factual analysis for explainable AI</b>  
@@ -180,6 +233,8 @@ https://zoom.us/rec/share/5dUuXBGcSY5MYs7CJ8RmAQ5wPh4S0He9il6_0k5BO5BZ-CDOk1wqbB
 https://zoom.us/rec/share/ZpR1yHTuV6p2EhLgBDryJbu_XkT-rJRoVIc7mdbxt03P-yVOzAOUvbYlqv4NS8LA.dXtFZEDidbVtbuPD?startTime=1635505204000
 - <b>Exploring tools for interpetable machine learning</b>  
 https://zoom.us/rec/share/eDpcPdvcT0BCLf1ZwJkyB2vCG0yGEYHT-M3tKJ9-Xvw7WQDP60hS4RqJF9BouGZ4.8Gqae_zntuhvnLqG?startTime=1635510745000
+- <b>Computer vision and XAI: Explaining a single prediction with visualisations and examples</b>  
+https://zoom.us/rec/share/ikzMyQEEn1QQzRmotZ-9FlIT-578Xr5HWJjHcnyaKJUhyklfxKWng3jslvZznzaL.Dph4uNCm_muvL4YV?startTime=1635598812000
 
 ## Libraries/frameworks/platforms/projects and updates
 
@@ -202,6 +257,8 @@ https://zoom.us/rec/share/IDEy0iDrDrGo5pimmKPAq_zBT8uVHGIt1MNgP2f9-X-9mVoZ2BvfXm
 https://zoom.us/rec/share/VJHX_OIrzZfinJE-45zVdFB_p-rZD00dJ4x5iIakPN4n-hzOBm2_xyZga4aRar4Y.lS_pcSUtkA633lbu?startTime=1635429612000
 - <b>FugueSQL: The enhances SQL interface for Pandas, Spark, and Dask dataframes</b>  
 https://zoom.us/rec/share/2jNbr4u_qn4ecYUXmPtRLpao9KD7cm70Yd31hnXC-CUcMmvJh4wA5d-H3PetA3q0.YUoW5_Sm6_Rs4QL4?startTime=1635492553000
+- <b> Fugue-tune: A simple interface for distributed hyperparameter optimisation</b>  
+https://zoom.us/rec/share/jgs_uVreG397j3knVpMxUYxn7U5yZMetg4Ts96kkGNzZWd2I4b_XwK8_ABNezxv3.fV94UCmTI0STgwsq?startTime=1635627702000
 - <b>Ray Tune: Cutting edge hyperparameter tuning made simple</b>  
 https://zoom.us/rec/share/eDpcPdvcT0BCLf1ZwJkyB2vCG0yGEYHT-M3tKJ9-Xvw7WQDP60hS4RqJF9BouGZ4.8Gqae_zntuhvnLqG?startTime=1635505263000
 - <b>Deduplify: A new deduplication package</b>  
@@ -214,12 +271,20 @@ https://zoom.us/rec/share/Rpn6SABF46pWMq9AArL8hLAVvQ5ck5W7Fd_RjRev0WW4bLYPSYwAKV
 https://youtu.be/XEwXgt_Imbg
 - <b>Prefect: A workflow management system for large-scale data processes</b>  
 https://zoom.us/rec/share/HypRpc2ZW7TfBNQ1imG5kOy-6vLPmoFo9YqIFpF-O_nYsaxj4aTqWZa194dIwwCb.-dUKG-RazGeWvOxs?startTime=1635535899000
+- <b>Piccolo ORM: Managing your data using FastAPI and Piccolo admin</b>  
+https://zoom.us/rec/share/Cu15SVPlxyhMX6asVRxeIKq60_WwlZ6RtTon3dOodj1S6fBwF39WoxR2yvCmen0S.GCMBHtlx4OLWfRYQ?startTime=1635586230000
+- <b>hydra-zen: Configurable, reproducible, and scalable computing with hydra</b>  
+https://zoom.us/rec/share/nfrdtSf7DLx1zMDfcikseuTF1iTBwL6JCrtJGumJqHjpIw6DeO6grp3_MHWqtBiE.Rc3TIbYmQSyQTcGH?startTime=1635627877000
+- <b>synthimpute: Fusing economic survey datasets with the synthimpute Python package</b>  
+https://zoom.us/rec/share/nfrdtSf7DLx1zMDfcikseuTF1iTBwL6JCrtJGumJqHjpIw6DeO6grp3_MHWqtBiE.Rc3TIbYmQSyQTcGH?startTime=1635629395000
+- <b>RLlib: Large-scale production reinforcement learning with RLlib</b>  
+Recording coming soon
 - <b>AIQC: Deep learning experiment tracking with multi-dimensional pre/post-processing</b>  
 Recording coming soon
 - <b>pfun: Functional, composable, asynchronous, type-safe Python</b>  
 Recodring coming soon
 
-### Best practices, tips and tricks
+### Tips, tricks and new developments
 - <b>Makefiles: One great trick for making you conda environments more managable</b>  
 https://zoom.us/rec/share/0cjbk_YdCTbiTm7gNhzSeNxxTCCEy1pCDUkkjfBjtvOsKGA8XmDOx82jflHdQCUP.fsjQkj5PWSYplOTz?startTime=1635460234000
 - <b>Deploying a mobile app on Tensorflow: Lessons learned</b>  
@@ -228,6 +293,10 @@ https://zoom.us/rec/share/cmFkh226J6KgHT80_UK5LUJ0ZHEwiuNKBIjJa8zxRYyIAHqGdEs2Vk
 https://zoom.us/rec/share/D3kkhW-Kui-21Ox83XAe94aRjXia_wpi9VTdY9-ddFgTERKuGXBgyNz-bb153r4Z.odwruwGHpfmGIxNZ?startTime=1635440378000
 - <b>Serving and managing reproducible Conda environments via Conda-Store</b>  
 https://zoom.us/rec/share/HypRpc2ZW7TfBNQ1imG5kOy-6vLPmoFo9YqIFpF-O_nYsaxj4aTqWZa194dIwwCb.-dUKG-RazGeWvOxs?startTime=1635532247000
+- <b>Feature stores: An operational bridge between machine learning models and data</b>  
+https://zoom.us/rec/share/Hj6KYCNgoCETZu71ffYroGXa1_aHs9_EJpDif0Q1Nl-L0VMxg3t8Ya_Arjz_tR4v.WJZfEcXURaL6eplq?startTime=1635541275000
+- <b>Why datatimes need units: Avoiding a Y2262 problem harnessing the power of numpy's datetime64</b>  
+https://zoom.us/rec/share/MhHxZLi-SMkU3Sewhv7MKLWhgS0y0T7E7xFqAWfukUNdUGtFJFcHxJf8g2r_dTqq.cBJaD2SZP5P7eLI9?startTime=1635534301000
 
 ### Recent updates
 - <b>conda-forge in 2021</b>  
@@ -274,6 +343,8 @@ https://zoom.us/rec/share/VJHX_OIrzZfinJE-45zVdFB_p-rZD00dJ4x5iIakPN4n-hzOBm2_xy
 https://zoom.us/rec/share/dbDxZE4uqgHP9ZsHqBRZkgkq6tiGlTNXAlVp4xm476P_fXeNoGMgxAMWFVZPnOUE.03qp79KDcYdFUC0K?startTime=1635422371000
 - <b>Building a sign-to-speech prototype with Tensorflow and DeepStack: How it happened and what I learned</b>  
 https://zoom.us/rec/share/AAqL5-5tQ43ZSgKkTvXsLLHxP3kjDGj866rkMHGzqKqDSWe4Uhe5C40JGOgP3Dae._5oPguwt16VEtq6f?startTime=1635507267000
+- <b>Image (Face) classification with computer vision and Python</b>  
+https://zoom.us/rec/share/y2Acuw5tPdF9cnJfBXzphSZeuimLKqj9JmdNRsaWpfI_lCvOYnHBliEIxVNkyTn3.0hO4Tf-eJEcxsORE?startTime=1635590953000
 - <b>Image classification in retail: Lessons from the real world</b>
 No Recording
 
@@ -282,5 +353,9 @@ No Recording
 https://zoom.us/rec/share/giuD3cpPl9WDuJQFA4I-6WW4H_GS5l4KQ2jBL8LH1pKVqdEl-gzFMWR7PZWtJQ_B.DOpH5ua19l9FaJYV?startTime=1635403026000
 - <b>An analysis of societal bias in SOTA NLP transfer learning</b>  
 https://zoom.us/rec/share/YBPWTnWgeomwLhi3lJEltAqC0pByZNHZVBDb-UaQ0ze9M5DDXY9ug3tjtMHAx9Mi.r29uRLuZkgoyw7lp?startTime=1635415726000
+- <b>Analysing company filings for stock selection - A practical report</b>  
+https://zoom.us/rec/share/_wWaVhUMsTyQ_5kysoEMRZZxjxJjTxufIkczVCjb_ICbFn4nGSBuiw2fj0it1Hkq.1OMGu7LGgpgTnKys?startTime=1635593434000
+- <b>What do c-suite executives pay attention to?</b>  
+https://zoom.us/rec/share/HZCezj59UGw88oLmpovnvXIqD2UFBI4louzeNE9VKDZvms66XwqoUZDBncVnPXB-.DyzbErAo6tJc7-CF?startTime=1635602957000
 - <b>NLP and hate speech: Why does it matter and what can we do?</b>  
 Not sure if the speaker did present
