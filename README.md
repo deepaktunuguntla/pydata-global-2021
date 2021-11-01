@@ -30,16 +30,6 @@ https://zoom.us/rec/share/mXrWjmn8H_pSMFkpjDfS6OfVfQ8Z9NRMb3wjHjiIFpq2jyQQ1IA4SV
 - <b>Building linear programs with ORTools (Tesco)</b>  
 No recording
 
-## Insightful
-- <b>Feature stores: An operational bridge between machine learning models and data</b>  
-https://zoom.us/rec/share/Hj6KYCNgoCETZu71ffYroGXa1_aHs9_EJpDif0Q1Nl-L0VMxg3t8Ya_Arjz_tR4v.WJZfEcXURaL6eplq?startTime=1635541275000
-- <b>Why datatimes need units: Avoiding a Y2262 problem harnessing the power of numpy's datetime64</b>  
-https://zoom.us/rec/share/MhHxZLi-SMkU3Sewhv7MKLWhgS0y0T7E7xFqAWfukUNdUGtFJFcHxJf8g2r_dTqq.cBJaD2SZP5P7eLI9?startTime=1635534301000
-- <b>Some attention for attenuation bias</b>  
-https://zoom.us/rec/share/-fbWM7-qwpfEogchxTC-YWiGI4uJqiS3gLGQytzQrHcm6__8m0S4JEkF-9saG2c.m2xiAqmch5iR12Ib?startTime=1635519628000
-- <b>Simplification as a service</b>  
-https://zoom.us/rec/share/2Aitd9WKLXVBTFDhKhm-xy6aDTnGsZQkUtrGFNXSZP6hS6Z8KjCMI77iTshBvdww.-4EAgxOvtam6Knus?startTime=1635523244000
-
 ## Jupyter notebooks (based)
 - <b>Notebook to production</b>  
 https://zoom.us/rec/share/yPATxs1QUqLhQCNhFEQ7WDvUDMhDB7iNoNaDFSvvm3JaXXsyL92X6LRNTsoumxvj.6z4xmAkawqvtrPZr?startTime=1635409973000
@@ -170,6 +160,16 @@ Video Recording: https://zoom.us/rec/share/AWQH64WZOxpaJDPv8kUavkJncM-F4Jfayy5Yb
 https://zoom.us/rec/share/yPATxs1QUqLhQCNhFEQ7WDvUDMhDB7iNoNaDFSvvm3JaXXsyL92X6LRNTsoumxvj.6z4xmAkawqvtrPZr?startTime=1635413557000
 - <b>Sliding into causal inference, with Python!</b>  
 Coming soon
+
+## Good to know
+- <b>Feature stores: An operational bridge between machine learning models and data</b>  
+https://zoom.us/rec/share/Hj6KYCNgoCETZu71ffYroGXa1_aHs9_EJpDif0Q1Nl-L0VMxg3t8Ya_Arjz_tR4v.WJZfEcXURaL6eplq?startTime=1635541275000
+- <b>Why datatimes need units: Avoiding a Y2262 problem harnessing the power of numpy's datetime64</b>  
+https://zoom.us/rec/share/MhHxZLi-SMkU3Sewhv7MKLWhgS0y0T7E7xFqAWfukUNdUGtFJFcHxJf8g2r_dTqq.cBJaD2SZP5P7eLI9?startTime=1635534301000
+- <b>Some attention for attenuation bias</b>  
+https://zoom.us/rec/share/-fbWM7-qwpfEogchxTC-YWiGI4uJqiS3gLGQytzQrHcm6__8m0S4JEkF-9saG2c.m2xiAqmch5iR12Ib?startTime=1635519628000
+- <b>Simplification as a service</b>  
+https://zoom.us/rec/share/2Aitd9WKLXVBTFDhKhm-xy6aDTnGsZQkUtrGFNXSZP6hS6Z8KjCMI77iTshBvdww.-4EAgxOvtam6Knus?startTime=1635523244000
 
 ## Explainable AI
 - <b>Counter factual analysis for explainable AI</b>  
