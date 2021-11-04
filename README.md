@@ -10,19 +10,9 @@ https://zoom.us/rec/share/AUJTje3O5L4v0iHyH87T_clsOZUP6EP3CJ_k2UKUcLRLsjUOwzETYJ
 - <b>Naomi Ceder</b>  
 https://zoom.us/rec/share/tWp3lCVhtBZ0YA94mHQN3whW09gc1AwBQckXidEtxbldrkWwhOY9m3rvDa39PmL_.MwhvPXF6LDYJQr4u?startTime=1635616916000  
 
-## Introductory
-
-### Tips and advice
-- <b>Storytelling with data - How to turn a basic dataset into a compelling story?</b>  
-https://zoom.us/rec/share/bZPPtqNq4c8DMTDptHNnMamVn09gIkgTTPvVmdPOq62yc2i7e4cJwZ0byeC471Ft.qyq5H4W3mdHK1Spg?startTime=1635606011000
-- <b>Love your (data scientist) neighbour: Reproducible data science the easydata way</b>  
-https://zoom.us/rec/share/9-4VWjJt_XVej9XMMwsKm8EEWTIxll1chJIC1kTxu9eyXdGJEkZLmAnobXPXjbso.hljvB0UjpDHewBxM?startTime=1635620423000
+## Hands-on intro to concepts/practices
 - <b>Know your data first: An introduction to exploratory data analysis</b>  
 https://zoom.us/rec/share/713iNHJ63ImaD_KncBsq3YRSmM_ZDkE44J0nUQUyZFwp-172U3wWRQ5JFpY_4B_g.WtW0FGojns9ceG8o?startTime=1635431451000
-- <b>Foundational infrastructure to create a successful data science team</b>  
-https://zoom.us/rec/share/jgs_uVreG397j3knVpMxUYxn7U5yZMetg4Ts96kkGNzZWd2I4b_XwK8_ABNezxv3.fV94UCmTI0STgwsq?startTime=1635631300000
-
-### Hands-on intro to theories
 - <b>Computational survival analysis</b>  
 https://zoom.us/rec/share/i_TIGU29hOeE07xjCM0DuJuOzFxjp-7XhxTLKXDFU1sgdLt2PJeveRnHWeU_Sluj.U6V6dlafHxoOyINw?startTime=1635521499000
 - <b>Lets implement Bayesian ordered logistic regression!</b>  
@@ -41,20 +31,8 @@ https://zoom.us/rec/share/nfrdtSf7DLx1zMDfcikseuTF1iTBwL6JCrtJGumJqHjpIw6DeO6grp
 https://zoom.us/rec/share/0Gkopugx3rzh3YsXUadjFGej2JHO3BoiUdsG_RWn7JqX7gsL3u555zg8Hs4eN8zL.XIk1sNSOBJW_G5gV?startTime=1635440409000
 - <b>Building linear programs with ORTools (Tesco)</b>  
 No recording
-
-### Hands-on exercises and tool applications
 - <b>Data analysis with Pandas and Numpy</b>
 Recording coming soon
-- <b>Using reproducible experiments to create better machine learning models (using DVC)</b>  
-https://zoom.us/rec/share/nfrdtSf7DLx1zMDfcikseuTF1iTBwL6JCrtJGumJqHjpIw6DeO6grp3_MHWqtBiE.Rc3TIbYmQSyQTcGH?startTime=1635631103000
-- <b>Get to know Apache Kafka with Jupyter notebooks</b>  
-https://zoom.us/rec/share/YBPWTnWgeomwLhi3lJEltAqC0pByZNHZVBDb-UaQ0ze9M5DDXY9ug3tjtMHAx9Mi.r29uRLuZkgoyw7lp?startTime=1635419402000
-- <b>High performance Python with Numba, Dask and Rapids for the absolute beginner</b>  
-https://zoom.us/rec/share/HZCezj59UGw88oLmpovnvXIqD2UFBI4louzeNE9VKDZvms66XwqoUZDBncVnPXB-.DyzbErAo6tJc7-CF?startTime=1635605232000
-- <b>Getting started with text classification to predict if tweets are about real disaster</b>  
-https://zoom.us/rec/share/SnvFK-1T5O_Rd3O-MxLtPqiFnU9Trv8coKk1nmEg0YEu_3tGW2n-FsN6sz_9qB6q.nVUnGehCYha8j90j?startTime=1635499977000
-- <b>Unlocking more from your audio data</b>  
-https://zoom.us/rec/share/4jiit-UUqET5tzEFjCcuYiHDaLi-5MlyP_vBiVJku2T_kWwbdCdYKj8Ac4m_Z2vN.00ZcJTdK6-Szv9TT?startTime=1635606149000
 
 ## Jupyter notebooks special
 - <b>Notebook to production</b>  
@@ -71,6 +49,8 @@ https://zoom.us/rec/share/AAqL5-5tQ43ZSgKkTvXsLLHxP3kjDGj866rkMHGzqKqDSWe4Uhe5C4
 https://zoom.us/rec/share/2Aitd9WKLXVBTFDhKhm-xy6aDTnGsZQkUtrGFNXSZP6hS6Z8KjCMI77iTshBvdww.-4EAgxOvtam6Knus?startTime=1635519734000
 - <b>Extending Jupyter data visualisations beyond the notebook</b>  
 https://zoom.us/rec/share/nfrdtSf7DLx1zMDfcikseuTF1iTBwL6JCrtJGumJqHjpIw6DeO6grp3_MHWqtBiE.Rc3TIbYmQSyQTcGH?startTime=1635624013000
+- <b>Get to know Apache Kafka with Jupyter notebooks</b>  
+https://zoom.us/rec/share/YBPWTnWgeomwLhi3lJEltAqC0pByZNHZVBDb-UaQ0ze9M5DDXY9ug3tjtMHAx9Mi.r29uRLuZkgoyw7lp?startTime=1635419402000
 - <b>From Jupyter to production: Deploying an influenza monitoring system at scale with wearable sensors</b>  
 https://zoom.us/rec/share/jgs_uVreG397j3knVpMxUYxn7U5yZMetg4Ts96kkGNzZWd2I4b_XwK8_ABNezxv3.fV94UCmTI0STgwsq?startTime=1635629583000
 
@@ -79,33 +59,39 @@ https://zoom.us/rec/share/jgs_uVreG397j3knVpMxUYxn7U5yZMetg4Ts96kkGNzZWd2I4b_XwK
 https://zoom.us/rec/share/B-s7RG8DoriAN5V9hcy7oBP9iHVEpzenuLxkX-qutunE0hYCbTZs-VgHh7w5vepF.knt9Zj3CRweGMDp9?startTime=1635418912000
 - <b>Think like Git</b>  
 https://zoom.us/rec/share/x1AV6NkGektH8BH_jnLdmMz7tw8M46OkNwEQBKTRVQENyKZKTOq6q8g711uLbq3y.xp-adyJSoMuGJMiE?startTime=1635440466000
+- <b>Using reproducible experiments to create better machine learning models (using DVC)</b>  
+https://zoom.us/rec/share/nfrdtSf7DLx1zMDfcikseuTF1iTBwL6JCrtJGumJqHjpIw6DeO6grp3_MHWqtBiE.Rc3TIbYmQSyQTcGH?startTime=1635631103000
 
 ## Documentation
 - <b>Document your scientific project with Markdown, Sphinx, and read the docs</b>  
 https://zoom.us/rec/share/Gk1zGa1VGyqSlWpoeJty9O_nstZx0cuVF0ApVzBibmBe-Fh8ZbqBKOpiNzw2lxlL.giLDfc9osjey4Uze?startTime=1635424398000
 
 ## Distributive computing
-- <b>Unifying large scale data preprocessing and machine learning pipelines</b>  
-https://zoom.us/rec/share/0cjbk_YdCTbiTm7gNhzSeNxxTCCEy1pCDUkkjfBjtvOsKGA8XmDOx82jflHdQCUP.fsjQkj5PWSYplOTz?startTime=1635456658000
-- <b> 5 reasons parquet files are better than csv for data analysis</b>  
-https://zoom.us/rec/share/x1AV6NkGektH8BH_jnLdmMz7tw8M46OkNwEQBKTRVQENyKZKTOq6q8g711uLbq3y.xp-adyJSoMuGJMiE?startTime=1635442234000
 - <b>Dask: From POC to production</b>  
 https://zoom.us/rec/share/LTwQxPDBQUhePIwhPK_pWi84ShH1-uMdOc2mURZBm1yxC_MZ2JzbpLE3hxiB--jY.Adlw3HkwGryYxVis?startTime=1635427879000
 - <b>Dask for everyone</b>  
 https://zoom.us/rec/share/5dUuXBGcSY5MYs7CJ8RmAQ5wPh4S0He9il6_0k5BO5BZ-CDOk1wqbBa19Dz35W1D.MvTTvkqKkbjrVs0U?startTime=1635494480000
 - <b>Data processing at scale</b>  
 https://zoom.us/rec/share/If9gCri1Xt5K6C46ZZ5ksP5bHMmKKyjihXIS2H7S7ucxKtqdeQUpE8bokN6MRu4.17ja6uXMX7dhXq3X?startTime=1635515996000
+- <b>Unifying large scale data preprocessing and machine learning pipelines</b>  
+https://zoom.us/rec/share/0cjbk_YdCTbiTm7gNhzSeNxxTCCEy1pCDUkkjfBjtvOsKGA8XmDOx82jflHdQCUP.fsjQkj5PWSYplOTz?startTime=1635456658000
+- <b>Towards cloud-native distributed machine learning pipelines at scale</b>  
+https://www.youtube.com/watch?v=dNzb_-JD6T0  
+https://github.com/terrytangyuan/public-talks/blob/main/talks/towards-cloud-native-distributed-machine-learning-pipelines-at-scale-pydata-global-2021/presentation.pdf
+- <b> 5 reasons parquet files are better than csv for data analysis</b>  
+https://zoom.us/rec/share/x1AV6NkGektH8BH_jnLdmMz7tw8M46OkNwEQBKTRVQENyKZKTOq6q8g711uLbq3y.xp-adyJSoMuGJMiE?startTime=1635442234000
+- <b>Simplifying testing of Spark applications</b>  
+https://zoom.us/rec/share/EZY3slKU8aCA3NFwF5z7JPPOhMjBMwLZ7OFMaGFziTDmKYzb8GgSvtzd18VHkA0A.lcjqG1XwevyCdwa9?startTime=1635611402000
+
+### Hands-on intro to distrubutive computing tools
+- <b>High performance Python with Numba, Dask and Rapids for the absolute beginner</b>  
+https://zoom.us/rec/share/HZCezj59UGw88oLmpovnvXIqD2UFBI4louzeNE9VKDZvms66XwqoUZDBncVnPXB-.DyzbErAo6tJc7-CF?startTime=1635605232000
 - <b>Getting started with Dask using Saturn Cloud</b>  
 Coming soon
 - <b>Large scale data validation with Fugue</b>  
 https://zoom.us/rec/share/MhHxZLi-SMkU3Sewhv7MKLWhgS0y0T7E7xFqAWfukUNdUGtFJFcHxJf8g2r_dTqq.cBJaD2SZP5P7eLI9?startTime=1635535919000
-- <b>Towards cloud-native distributed machine learning pipelines at scale</b>  
-https://www.youtube.com/watch?v=dNzb_-JD6T0  
-https://github.com/terrytangyuan/public-talks/blob/main/talks/towards-cloud-native-distributed-machine-learning-pipelines-at-scale-pydata-global-2021/presentation.pdf
 - <b>Snowflake and Dask: How to scale workloads using distributes fetch capabilities?</b>  
  https://zoom.us/rec/share/bZPPtqNq4c8DMTDptHNnMamVn09gIkgTTPvVmdPOq62yc2i7e4cJwZ0byeC471Ft.qyq5H4W3mdHK1Spg?startTime=1635609671000
-- <b>Simplifying testing of Spark applications</b>  
-https://zoom.us/rec/share/EZY3slKU8aCA3NFwF5z7JPPOhMjBMwLZ7OFMaGFziTDmKYzb8GgSvtzd18VHkA0A.lcjqG1XwevyCdwa9?startTime=1635611402000
 
 ### Applications
 - <b>Spatial analytics using Dask and Numba</b>  
@@ -113,13 +99,39 @@ https://zoom.us/rec/share/pdWvOlS5FcUZUUKk46r-1HUnAUmXSNhR_j9E7k8hpRfY-uw64ErGzg
 - <b>Data infrastructure at the Covid tracking project</b>  
 https://zoom.us/rec/share/IDEy0iDrDrGo5pimmKPAq_zBT8uVHGIt1MNgP2f9-X-9mVoZ2BvfXmL6eHijP3hS.5amXOW6ThM-CYX55?startTime=1635447638000
 
-## ML in/for production
+## Transforming into a data professional
+- <b>Storytelling with data - How to turn a basic dataset into a compelling story?</b>  
+https://zoom.us/rec/share/bZPPtqNq4c8DMTDptHNnMamVn09gIkgTTPvVmdPOq62yc2i7e4cJwZ0byeC471Ft.qyq5H4W3mdHK1Spg?startTime=1635606011000
+- <b>Love your (data scientist) neighbour: Reproducible data science the easydata way</b>
+https://zoom.us/rec/share/9-4VWjJt_XVej9XMMwsKm8EEWTIxll1chJIC1kTxu9eyXdGJEkZLmAnobXPXjbso.hljvB0UjpDHewBxM?startTime=1635620423000
+- <b>So much data, such poor quality</b>  
+https://zoom.us/rec/share/bZPPtqNq4c8DMTDptHNnMamVn09gIkgTTPvVmdPOq62yc2i7e4cJwZ0byeC471Ft.qyq5H4W3mdHK1Spg?startTime=1635607871000
+- <b>Data science in the enterprise: A holistic approach</b>  
+https://zoom.us/rec/share/LTwQxPDBQUhePIwhPK_pWi84ShH1-uMdOc2mURZBm1yxC_MZ2JzbpLE3hxiB--jY.Adlw3HkwGryYxVis?startTime=1635435010000
+- <b>Foundational infrastructure to create a successful data science team</b>  
+https://zoom.us/rec/share/jgs_uVreG397j3knVpMxUYxn7U5yZMetg4Ts96kkGNzZWd2I4b_XwK8_ABNezxv3.fV94UCmTI0STgwsq?startTime=1635631300000
+- <b>Data engineering for successful machine learning</b>  
+https://zoom.us/rec/share/Hj6KYCNgoCETZu71ffYroGXa1_aHs9_EJpDif0Q1Nl-L0VMxg3t8Ya_Arjz_tR4v.WJZfEcXURaL6eplq?startTime=1635543147000
+- <b>Designing functional data pipelines for reproducibility and maintainability</b>  
+https://zoom.us/rec/share/2jNbr4u_qn4ecYUXmPtRLpao9KD7cm70Yd31hnXC-CUcMmvJh4wA5d-H3PetA3q0.YUoW5_Sm6_Rs4QL4?startTime=1635496316000
+- <b>Lessons learned from deploying machine learning in an old-fashioned heavy industry</b>  
+https://zoom.us/rec/share/5dUuXBGcSY5MYs7CJ8RmAQ5wPh4S0He9il6_0k5BO5BZ-CDOk1wqbBa19Dz35W1D.MvTTvkqKkbjrVs0U?startTime=1635499917000
+- <b>Building a data-driven product from scratch, how hard can it be?</b>  
+https://zoom.us/rec/share/-fbWM7-qwpfEogchxTC-YWiGI4uJqiS3gLGQytzQrHcm6__8m0S4JEkF-9saG2c.m2xiAqmch5iR12Ib?startTime=1635528806000
+- <b>The prototype hole and tools to help you out of it</b>  
+https://zoom.us/rec/share/_wWaVhUMsTyQ_5kysoEMRZZxjxJjTxufIkczVCjb_ICbFn4nGSBuiw2fj0it1Hkq.1OMGu7LGgpgTnKys?startTime=1635595318000
+- <b>Agile data science: How to implement Agile workflows for analytics and machine learning</b>  
+https://zoom.us/rec/share/ikzMyQEEn1QQzRmotZ-9FlIT-578Xr5HWJjHcnyaKJUhyklfxKWng3jslvZznzaL.Dph4uNCm_muvL4YV?startTime=1635600696000
+- <b>Software inspired workflow for data analysis</b>  
+https://zoom.us/rec/share/IQYqC2B35mC2zB5WyM5yFntjnAbjNLIuTyxV3_72Pq6G2RsCtDhxCtisZDlGEeTm.0W2jkovIwW0WRAx_?startTime=1635581173000
 - <b>Wisdom of the crowd: Amplifying human intelligence with AI</b>  
 https://zoom.us/rec/share/-fbWM7-qwpfEogchxTC-YWiGI4uJqiS3gLGQytzQrHcm6__8m0S4JEkF-9saG2c.m2xiAqmch5iR12Ib?startTime=1635525234000
 - <b>Building responsible data science workflows: Transparency, reproducibility, and ethics by design (workshop)</b>  
 https://zoom.us/rec/share/RDtYKfTlvgsdwVVQprwmJIylN8RYiv7hghukwY9iR7ULAWZM5hAQzGeSkSYfLSJT.Gg6hxnMIxX8cHGtE?startTime=1635453171000
-- <b>Data science in the enterprise: A holistic approach</b>  
-https://zoom.us/rec/share/LTwQxPDBQUhePIwhPK_pWi84ShH1-uMdOc2mURZBm1yxC_MZ2JzbpLE3hxiB--jY.Adlw3HkwGryYxVis?startTime=1635435010000
+
+## ML models in production
+
+### Interpretability and monitoring
 - <b>Best practices in machine learning observatbility</b>  
 https://zoom.us/rec/share/yPATxs1QUqLhQCNhFEQ7WDvUDMhDB7iNoNaDFSvvm3JaXXsyL92X6LRNTsoumxvj.6z4xmAkawqvtrPZr?startTime=1635408089000
 - <b>Is my data drifting? Early monitoring for machine learning models in production</b>  
@@ -130,42 +142,28 @@ https://zoom.us/rec/share/xJpyNT9r_KKG1CYXx3OPsDRYsHV8gj8Eybl0zkKv7hZ4x978Kgu3oP
 https://zoom.us/rec/share/x1AV6NkGektH8BH_jnLdmMz7tw8M46OkNwEQBKTRVQENyKZKTOq6q8g711uLbq3y.xp-adyJSoMuGJMiE?startTime=1635444064000
 - <b>Assessing and mitigating unfairness in AI systems</b>  
 https://zoom.us/rec/share/ZvcLq8ZPSEcKfxf5cOVzqdQJhyVnnNBuiS6CDx8z2rjBZkNbZD7DfDbPfIkbYNgq.hn0bJdh74uImJ-2u?startTime=1635445935000
-- <b>Designing functional data pipelines for reproducibility and maintainability</b>  
-https://zoom.us/rec/share/2jNbr4u_qn4ecYUXmPtRLpao9KD7cm70Yd31hnXC-CUcMmvJh4wA5d-H3PetA3q0.YUoW5_Sm6_Rs4QL4?startTime=1635496316000
+
+### 
 - <b>Snowflake and Tecton: How to build production-ready machine learning pipelines</b>  
 https://zoom.us/rec/share/0cjbk_YdCTbiTm7gNhzSeNxxTCCEy1pCDUkkjfBjtvOsKGA8XmDOx82jflHdQCUP.fsjQkj5PWSYplOTz?startTime=1635454783000
 - <b>ML in Production - serverless and painless</b>  
 https://zoom.us/rec/share/5dUuXBGcSY5MYs7CJ8RmAQ5wPh4S0He9il6_0k5BO5BZ-CDOk1wqbBa19Dz35W1D.MvTTvkqKkbjrVs0U?startTime=1635496548000
-- <b>Lessons learned from deploying machine learning in an old0fashioned heavy industry</b>  
-https://zoom.us/rec/share/5dUuXBGcSY5MYs7CJ8RmAQ5wPh4S0He9il6_0k5BO5BZ-CDOk1wqbBa19Dz35W1D.MvTTvkqKkbjrVs0U?startTime=1635499917000
 - <b>Accelerating ML inference at scale with ONNX, Triton and Tempo</b>  
 https://zoom.us/rec/share/VJHX_OIrzZfinJE-45zVdFB_p-rZD00dJ4x5iIakPN4n-hzOBm2_xyZga4aRar4Y.lS_pcSUtkA633lbu?startTime=1635427805000
 - <b>Dev, staging, and production in data engineering with Terraform</b>  
 https://zoom.us/rec/share/2Aitd9WKLXVBTFDhKhm-xy6aDTnGsZQkUtrGFNXSZP6hS6Z8KjCMI77iTshBvdww.-4EAgxOvtam6Knus?startTime=1635526942000
 - <b>Machine learning lifecycle made easy with MLFlow</b>  
 https://zoom.us/rec/share/wZQQ55nSq66glaHDZ68vEGgWtGrxmQXOP9GG0ozfh05uYPvRtOmJKiw0xe99if-K.vNu3_N21BUsFuQsJ?startTime=1635492616000
-- <b>Data engineering for successful machine learning</b>  
-https://zoom.us/rec/share/Hj6KYCNgoCETZu71ffYroGXa1_aHs9_EJpDif0Q1Nl-L0VMxg3t8Ya_Arjz_tR4v.WJZfEcXURaL6eplq?startTime=1635543147000
 - <b>Robust, end-to-end online machine learning applications with Flytekit, Pandera and Streamlit</b>  
 https://zoom.us/rec/share/I975sr0BhiK3w22Dgxvi20WAOdOP1bQz9TrnNonGf8RndJifgDKfsoQrANS4Nx7t.AnrPF3YKinIPZLWd?startTime=1635537616000
 - <b>Serving BERT models in production with TorchServe</b>  
 https://zoom.us/rec/share/YBggDeMce-vY2v8c5en-xAijSr0_r1cmDO4HpmLVRVHFgPrCcVy3zh18AT9vcLO3.IyND-DFUFLq4hw2r?startTime=1635532258000
-- <b>Building a data-driven product from scratch, how hard can it be?</b>  
-https://zoom.us/rec/share/-fbWM7-qwpfEogchxTC-YWiGI4uJqiS3gLGQytzQrHcm6__8m0S4JEkF-9saG2c.m2xiAqmch5iR12Ib?startTime=1635528806000
 - <b>Towards collaborative reproducibility: Pinning respository of binary distributions</b>  
 https://zoom.us/rec/share/IQYqC2B35mC2zB5WyM5yFntjnAbjNLIuTyxV3_72Pq6G2RsCtDhxCtisZDlGEeTm.0W2jkovIwW0WRAx_?startTime=1635579225000
-- <b>Software inspired workflow for data analysis</b>  
-https://zoom.us/rec/share/IQYqC2B35mC2zB5WyM5yFntjnAbjNLIuTyxV3_72Pq6G2RsCtDhxCtisZDlGEeTm.0W2jkovIwW0WRAx_?startTime=1635581173000
 - <b>A first step from AD-HOC SQL to scalable ETL</b>  
 https://zoom.us/rec/share/IQYqC2B35mC2zB5WyM5yFntjnAbjNLIuTyxV3_72Pq6G2RsCtDhxCtisZDlGEeTm.0W2jkovIwW0WRAx_?startTime=1635582657000
-- <b>The prototype hole and tools to help you out of it</b>  
-https://zoom.us/rec/share/_wWaVhUMsTyQ_5kysoEMRZZxjxJjTxufIkczVCjb_ICbFn4nGSBuiw2fj0it1Hkq.1OMGu7LGgpgTnKys?startTime=1635595318000
 - <b>How to detect silent model failures?</b>  
 https://zoom.us/rec/share/_wWaVhUMsTyQ_5kysoEMRZZxjxJjTxufIkczVCjb_ICbFn4nGSBuiw2fj0it1Hkq.1OMGu7LGgpgTnKys?startTime=1635596976000
-- <b>Agile data science: How to implement Agile workflows for analytics and machine learning</b>  
-https://zoom.us/rec/share/ikzMyQEEn1QQzRmotZ-9FlIT-578Xr5HWJjHcnyaKJUhyklfxKWng3jslvZznzaL.Dph4uNCm_muvL4YV?startTime=1635600696000
-- <b>So much data, such poor quality</b>  
-https://zoom.us/rec/share/bZPPtqNq4c8DMTDptHNnMamVn09gIkgTTPvVmdPOq62yc2i7e4cJwZ0byeC471Ft.qyq5H4W3mdHK1Spg?startTime=1635607871000
 
 ## Dashboarding
 - <b>Why interactive data visualisation matter for data science in Python</b>  
@@ -355,6 +353,10 @@ https://zoom.us/rec/share/y2Acuw5tPdF9cnJfBXzphSZeuimLKqj9JmdNRsaWpfI_lCvOYnHBli
 No Recording
 
 ### Natural language processing
+- <b>Getting started with text classification to predict if tweets are about real disaster</b>  
+https://zoom.us/rec/share/SnvFK-1T5O_Rd3O-MxLtPqiFnU9Trv8coKk1nmEg0YEu_3tGW2n-FsN6sz_9qB6q.nVUnGehCYha8j90j?startTime=1635499977000
+- <b>Unlocking more from your audio data</b>  
+https://zoom.us/rec/share/4jiit-UUqET5tzEFjCcuYiHDaLi-5MlyP_vBiVJku2T_kWwbdCdYKj8Ac4m_Z2vN.00ZcJTdK6-Szv9TT?startTime=1635606149000
 - <b>Reasoning with natural language processing: Advancement in the interpretation of Arabic speech</b>  
 https://zoom.us/rec/share/giuD3cpPl9WDuJQFA4I-6WW4H_GS5l4KQ2jBL8LH1pKVqdEl-gzFMWR7PZWtJQ_B.DOpH5ua19l9FaJYV?startTime=1635403026000
 - <b>An analysis of societal bias in SOTA NLP transfer learning</b>  
