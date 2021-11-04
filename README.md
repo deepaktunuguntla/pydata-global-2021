@@ -11,46 +11,52 @@ https://zoom.us/rec/share/AUJTje3O5L4v0iHyH87T_clsOZUP6EP3CJ_k2UKUcLRLsjUOwzETYJ
 https://zoom.us/rec/share/tWp3lCVhtBZ0YA94mHQN3whW09gc1AwBQckXidEtxbldrkWwhOY9m3rvDa39PmL_.MwhvPXF6LDYJQr4u?startTime=1635616916000  
 
 ## Introductory
-- <b>Know your data first: An introduction to exploratory data analysis</b>  
-https://zoom.us/rec/share/713iNHJ63ImaD_KncBsq3YRSmM_ZDkE44J0nUQUyZFwp-172U3wWRQ5JFpY_4B_g.WtW0FGojns9ceG8o?startTime=1635431451000
-- <b>GPU development with Python 101</b>  
-https://zoom.us/rec/share/0Gkopugx3rzh3YsXUadjFGej2JHO3BoiUdsG_RWn7JqX7gsL3u555zg8Hs4eN8zL.XIk1sNSOBJW_G5gV?startTime=1635440409000
-- <b>Get to know Apache Kafka with Jupyter notebooks</b>  
-https://zoom.us/rec/share/YBPWTnWgeomwLhi3lJEltAqC0pByZNHZVBDb-UaQ0ze9M5DDXY9ug3tjtMHAx9Mi.r29uRLuZkgoyw7lp?startTime=1635419402000
-- <b>Introduction to quantum computing with Python and Qiskit</b>  
-https://zoom.us/rec/share/2jNbr4u_qn4ecYUXmPtRLpao9KD7cm70Yd31hnXC-CUcMmvJh4wA5d-H3PetA3q0.YUoW5_Sm6_Rs4QL4?startTime=1635499839000
-- <b>Lets implement Bayesian ordered logistic regression!</b>  
-https://zoom.us/rec/share/-fbWM7-qwpfEogchxTC-YWiGI4uJqiS3gLGQytzQrHcm6__8m0S4JEkF-9saG2c.m2xiAqmch5iR12Ib?startTime=1635521525000
-- <b>Computational survival analysis</b>  
-https://zoom.us/rec/share/i_TIGU29hOeE07xjCM0DuJuOzFxjp-7XhxTLKXDFU1sgdLt2PJeveRnHWeU_Sluj.U6V6dlafHxoOyINw?startTime=1635521499000
-- <b>Data analysis with Pandas and Numpy</b>  
-Recording coming soon
-- <b>Getting started with text classification to predict if tweets are about real disaster</b>  
-https://zoom.us/rec/share/SnvFK-1T5O_Rd3O-MxLtPqiFnU9Trv8coKk1nmEg0YEu_3tGW2n-FsN6sz_9qB6q.nVUnGehCYha8j90j?startTime=1635499977000
-- <b>Introduction to distance metric learning</b>  
-https://zoom.us/rec/share/mXrWjmn8H_pSMFkpjDfS6OfVfQ8Z9NRMb3wjHjiIFpq2jyQQ1IA4SVkBqg2V30bx.3EXZyzqMK_TN3MPj?startTime=1635516007000
-- <b>High performance Python with Numba, Dask and Rapids for the absolute beginner</b>  
-https://zoom.us/rec/share/HZCezj59UGw88oLmpovnvXIqD2UFBI4louzeNE9VKDZvms66XwqoUZDBncVnPXB-.DyzbErAo6tJc7-CF?startTime=1635605232000
+
+### Tips and advice
 - <b>Storytelling with data - How to turn a basic dataset into a compelling story?</b>  
 https://zoom.us/rec/share/bZPPtqNq4c8DMTDptHNnMamVn09gIkgTTPvVmdPOq62yc2i7e4cJwZ0byeC471Ft.qyq5H4W3mdHK1Spg?startTime=1635606011000
-- <b>Unlocking more from your audio data</b>  
-https://zoom.us/rec/share/4jiit-UUqET5tzEFjCcuYiHDaLi-5MlyP_vBiVJku2T_kWwbdCdYKj8Ac4m_Z2vN.00ZcJTdK6-Szv9TT?startTime=1635606149000
+- <b>Love your (data scientist) neighbour: Reproducible data science the easydata way</b>  
+https://zoom.us/rec/share/9-4VWjJt_XVej9XMMwsKm8EEWTIxll1chJIC1kTxu9eyXdGJEkZLmAnobXPXjbso.hljvB0UjpDHewBxM?startTime=1635620423000
+- <b>Know your data first: An introduction to exploratory data analysis</b>  
+https://zoom.us/rec/share/713iNHJ63ImaD_KncBsq3YRSmM_ZDkE44J0nUQUyZFwp-172U3wWRQ5JFpY_4B_g.WtW0FGojns9ceG8o?startTime=1635431451000
+- <b>Foundational infrastructure to create a successful data science team</b>  
+https://zoom.us/rec/share/jgs_uVreG397j3knVpMxUYxn7U5yZMetg4Ts96kkGNzZWd2I4b_XwK8_ABNezxv3.fV94UCmTI0STgwsq?startTime=1635631300000
+
+### Hands-on intro to theories
+- <b>Computational survival analysis</b>  
+https://zoom.us/rec/share/i_TIGU29hOeE07xjCM0DuJuOzFxjp-7XhxTLKXDFU1sgdLt2PJeveRnHWeU_Sluj.U6V6dlafHxoOyINw?startTime=1635521499000
+- <b>Lets implement Bayesian ordered logistic regression!</b>  
+https://zoom.us/rec/share/-fbWM7-qwpfEogchxTC-YWiGI4uJqiS3gLGQytzQrHcm6__8m0S4JEkF-9saG2c.m2xiAqmch5iR12Ib?startTime=1635521525000
+- <b>Introduction to distance metric learning</b>  
+https://zoom.us/rec/share/mXrWjmn8H_pSMFkpjDfS6OfVfQ8Z9NRMb3wjHjiIFpq2jyQQ1IA4SVkBqg2V30bx.3EXZyzqMK_TN3MPj?startTime=1635516007000
+- <b>Introduction to quantum computing with Python and Qiskit</b>  
+https://zoom.us/rec/share/2jNbr4u_qn4ecYUXmPtRLpao9KD7cm70Yd31hnXC-CUcMmvJh4wA5d-H3PetA3q0.YUoW5_Sm6_Rs4QL4?startTime=1635499839000
 - <b>An attempt at demystifying graph deep learning</b>  
 https://zoom.us/rec/share/6zFW5jm8ZvWdNCgKOmmEBeMJ1HUI1bKH7nTEPKHXJloqOJxoy04QXM5ffKVjFi5v.bYHifipchtuqoiy8?startTime=1635613299000
 - <b>Uncertainity quantification 360: A hands-on tutorial</b>  
 https://zoom.us/rec/share/vfnCA1I77rsSYzvSQlegS0LUnudcq0ZjxFWDumpdr3bupdyAG2iBX0dUQACQLSla.rY1cr9S5cSL0IkEb?startTime=1635611455000
-- <b>Love your (data scientist) neighbour: Reproducible data science the easydata way</b>  
-https://zoom.us/rec/share/9-4VWjJt_XVej9XMMwsKm8EEWTIxll1chJIC1kTxu9eyXdGJEkZLmAnobXPXjbso.hljvB0UjpDHewBxM?startTime=1635620423000
 - <b>Introduction to unsupervised and semi-supervised learning in Tensorflow</b>  
 https://zoom.us/rec/share/nfrdtSf7DLx1zMDfcikseuTF1iTBwL6JCrtJGumJqHjpIw6DeO6grp3_MHWqtBiE.Rc3TIbYmQSyQTcGH?startTime=1635625950000
-- <b>Using reproducible experiments to create better machine learning models</b>  
-https://zoom.us/rec/share/nfrdtSf7DLx1zMDfcikseuTF1iTBwL6JCrtJGumJqHjpIw6DeO6grp3_MHWqtBiE.Rc3TIbYmQSyQTcGH?startTime=1635631103000
-- <b>Foundational infrastructure to create a successful data science team</b>  
-https://zoom.us/rec/share/jgs_uVreG397j3knVpMxUYxn7U5yZMetg4Ts96kkGNzZWd2I4b_XwK8_ABNezxv3.fV94UCmTI0STgwsq?startTime=1635631300000
+- <b>GPU development with Python 101</b>  
+https://zoom.us/rec/share/0Gkopugx3rzh3YsXUadjFGej2JHO3BoiUdsG_RWn7JqX7gsL3u555zg8Hs4eN8zL.XIk1sNSOBJW_G5gV?startTime=1635440409000
 - <b>Building linear programs with ORTools (Tesco)</b>  
 No recording
 
-## Jupyter notebooks (based)
+### Hands-on exercises and tool applications
+- <b>Data analysis with Pandas and Numpy</b>
+Recording coming soon
+- <b>Using reproducible experiments to create better machine learning models (using DVC)</b>  
+https://zoom.us/rec/share/nfrdtSf7DLx1zMDfcikseuTF1iTBwL6JCrtJGumJqHjpIw6DeO6grp3_MHWqtBiE.Rc3TIbYmQSyQTcGH?startTime=1635631103000
+- <b>Get to know Apache Kafka with Jupyter notebooks</b>  
+https://zoom.us/rec/share/YBPWTnWgeomwLhi3lJEltAqC0pByZNHZVBDb-UaQ0ze9M5DDXY9ug3tjtMHAx9Mi.r29uRLuZkgoyw7lp?startTime=1635419402000
+- <b>High performance Python with Numba, Dask and Rapids for the absolute beginner</b>  
+https://zoom.us/rec/share/HZCezj59UGw88oLmpovnvXIqD2UFBI4louzeNE9VKDZvms66XwqoUZDBncVnPXB-.DyzbErAo6tJc7-CF?startTime=1635605232000
+- <b>Getting started with text classification to predict if tweets are about real disaster</b>  
+https://zoom.us/rec/share/SnvFK-1T5O_Rd3O-MxLtPqiFnU9Trv8coKk1nmEg0YEu_3tGW2n-FsN6sz_9qB6q.nVUnGehCYha8j90j?startTime=1635499977000
+- <b>Unlocking more from your audio data</b>  
+https://zoom.us/rec/share/4jiit-UUqET5tzEFjCcuYiHDaLi-5MlyP_vBiVJku2T_kWwbdCdYKj8Ac4m_Z2vN.00ZcJTdK6-Szv9TT?startTime=1635606149000
+
+## Jupyter notebooks special
 - <b>Notebook to production</b>  
 https://zoom.us/rec/share/yPATxs1QUqLhQCNhFEQ7WDvUDMhDB7iNoNaDFSvvm3JaXXsyL92X6LRNTsoumxvj.6z4xmAkawqvtrPZr?startTime=1635409973000
 - <b>Collaborative editing in Jupyter notebook</b>  
@@ -59,7 +65,7 @@ https://zoom.us/rec/share/yPATxs1QUqLhQCNhFEQ7WDvUDMhDB7iNoNaDFSvvm3JaXXsyL92X6L
 https://zoom.us/rec/share/AAqL5-5tQ43ZSgKkTvXsLLHxP3kjDGj866rkMHGzqKqDSWe4Uhe5C40JGOgP3Dae._5oPguwt16VEtq6f?startTime=1635505291000
 - <b>From Jupyter notebooks to JetBrains DataSpell</b>  
 https://zoom.us/rec/share/5dUuXBGcSY5MYs7CJ8RmAQ5wPh4S0He9il6_0k5BO5BZ-CDOk1wqbBa19Dz35W1D.MvTTvkqKkbjrVs0U?startTime=1635501723000
-- <b>Build polished, data-driven applications directoly from yours pandas or xarray pipelines</b>  
+- <b>Build polished, data-driven applications directly from yours pandas or xarray pipelines</b>  
 https://zoom.us/rec/share/AAqL5-5tQ43ZSgKkTvXsLLHxP3kjDGj866rkMHGzqKqDSWe4Uhe5C40JGOgP3Dae._5oPguwt16VEtq6f?startTime=1635508803000
 - <b> From Jupyter notebook to production web app, with Anvil and (only) Python</b>  
 https://zoom.us/rec/share/2Aitd9WKLXVBTFDhKhm-xy6aDTnGsZQkUtrGFNXSZP6hS6Z8KjCMI77iTshBvdww.-4EAgxOvtam6Knus?startTime=1635519734000
