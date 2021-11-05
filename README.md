@@ -29,7 +29,7 @@ https://zoom.us/rec/share/nfrdtSf7DLx1zMDfcikseuTF1iTBwL6JCrtJGumJqHjpIw6DeO6grp
 https://zoom.us/rec/share/0Gkopugx3rzh3YsXUadjFGej2JHO3BoiUdsG_RWn7JqX7gsL3u555zg8Hs4eN8zL.XIk1sNSOBJW_G5gV?startTime=1635440409000
 - <b>Building linear programs with ORTools (Tesco)</b>  
 No recording  
-- <b>Data analysis with Pandas and Numpy</b>
+- <b>Data analysis with Pandas and Numpy</b>  
 Recording coming soon
 
 ## Jupyter notebooks specials
