@@ -40,9 +40,9 @@ https://zoom.us/rec/share/2jNbr4u_qn4ecYUXmPtRLpao9KD7cm70Yd31hnXC-CUcMmvJh4wA5d
 - [<b>From Jupyter to production: Deploying an influenza monitoring system at scale with wearable sensors</b>](https://zoom.us/rec/share/jgs_uVreG397j3knVpMxUYxn7U5yZMetg4Ts96kkGNzZWd2I4b_XwK8_ABNezxv3.fV94UCmTI0STgwsq?startTime=1635629583000)
 
 ## Version control
+- [<b>Think like Git</b>](https://zoom.us/rec/share/x1AV6NkGektH8BH_jnLdmMz7tw8M46OkNwEQBKTRVQENyKZKTOq6q8g711uLbq3y.xp-adyJSoMuGJMiE?startTime=1635440466000)
 - [<b>DVC showcase - Who moved my data?</b>](https://zoom.us/rec/share/B-s7RG8DoriAN5V9hcy7oBP9iHVEpzenuLxkX-qutunE0hYCbTZs-VgHh7w5vepF.knt9Zj3CRweGMDp9?startTime=1635418912000)
   - [<b>Using reproducible experiments to create better machine learning models (using DVC)</b>](https://zoom.us/rec/share/nfrdtSf7DLx1zMDfcikseuTF1iTBwL6JCrtJGumJqHjpIw6DeO6grp3_MHWqtBiE.Rc3TIbYmQSyQTcGH?startTime=1635631103000)
-- [<b>Think like Git</b>](https://zoom.us/rec/share/x1AV6NkGektH8BH_jnLdmMz7tw8M46OkNwEQBKTRVQENyKZKTOq6q8g711uLbq3y.xp-adyJSoMuGJMiE?startTime=1635440466000)
 
 ## Documentation
 - [<b>Document your scientific project with Markdown, Sphinx, and read the docs</b>](https://zoom.us/rec/share/Gk1zGa1VGyqSlWpoeJty9O_nstZx0cuVF0ApVzBibmBe-Fh8ZbqBKOpiNzw2lxlL.giLDfc9osjey4Uze?startTime=1635424398000)
@@ -52,17 +52,17 @@ https://zoom.us/rec/share/2jNbr4u_qn4ecYUXmPtRLpao9KD7cm70Yd31hnXC-CUcMmvJh4wA5d
 - [<b>Dask for everyone</b>](https://zoom.us/rec/share/5dUuXBGcSY5MYs7CJ8RmAQ5wPh4S0He9il6_0k5BO5BZ-CDOk1wqbBa19Dz35W1D.MvTTvkqKkbjrVs0U?startTime=1635494480000)
 - [<b>Data processing at scale</b>](https://zoom.us/rec/share/If9gCri1Xt5K6C46ZZ5ksP5bHMmKKyjihXIS2H7S7ucxKtqdeQUpE8bokN6MRu4.17ja6uXMX7dhXq3X?startTime=1635515996000)
 - [<b>Unifying large scale data preprocessing and machine learning pipelines</b>](https://zoom.us/rec/share/0cjbk_YdCTbiTm7gNhzSeNxxTCCEy1pCDUkkjfBjtvOsKGA8XmDOx82jflHdQCUP.fsjQkj5PWSYplOTz?startTime=1635456658000)
+- [<b> 5 reasons parquet files are better than csv for data analysis</b>](https://zoom.us/rec/share/x1AV6NkGektH8BH_jnLdmMz7tw8M46OkNwEQBKTRVQENyKZKTOq6q8g711uLbq3y.xp-adyJSoMuGJMiE?startTime=1635442234000)
+- [<b>Simplifying testing of Spark applications</b>](https://zoom.us/rec/share/EZY3slKU8aCA3NFwF5z7JPPOhMjBMwLZ7OFMaGFziTDmKYzb8GgSvtzd18VHkA0A.lcjqG1XwevyCdwa9?startTime=1635611402000)
 - <b>Towards cloud-native distributed machine learning pipelines at scale</b>
   - [Recording](https://www.youtube.com/watch?v=dNzb_-JD6T0)
   - [Slides](https://github.com/terrytangyuan/public-talks/blob/main/talks/towards-cloud-native-distributed-machine-learning-pipelines-at-scale-pydata-global-2021/presentation.pdf)
-- [<b> 5 reasons parquet files are better than csv for data analysis</b>](https://zoom.us/rec/share/x1AV6NkGektH8BH_jnLdmMz7tw8M46OkNwEQBKTRVQENyKZKTOq6q8g711uLbq3y.xp-adyJSoMuGJMiE?startTime=1635442234000)
-- [<b>Simplifying testing of Spark applications</b>](https://zoom.us/rec/share/EZY3slKU8aCA3NFwF5z7JPPOhMjBMwLZ7OFMaGFziTDmKYzb8GgSvtzd18VHkA0A.lcjqG1XwevyCdwa9?startTime=1635611402000)
 
 ### Hands-on intro to DC tools
 - [<b>High performance Python with Numba, Dask and Rapids for the absolute beginner</b>](https://zoom.us/rec/share/HZCezj59UGw88oLmpovnvXIqD2UFBI4louzeNE9VKDZvms66XwqoUZDBncVnPXB-.DyzbErAo6tJc7-CF?startTime=1635605232000)
-- <b>Getting started with Dask using Saturn Cloud</b> (Recording coming soon)
 - [<b>Large scale data validation with Fugue</b>](https://zoom.us/rec/share/MhHxZLi-SMkU3Sewhv7MKLWhgS0y0T7E7xFqAWfukUNdUGtFJFcHxJf8g2r_dTqq.cBJaD2SZP5P7eLI9?startTime=1635535919000)
 - [<b>Snowflake and Dask: How to scale workloads using distributes fetch capabilities?</b>](https://zoom.us/rec/share/bZPPtqNq4c8DMTDptHNnMamVn09gIkgTTPvVmdPOq62yc2i7e4cJwZ0byeC471Ft.qyq5H4W3mdHK1Spg?startTime=1635609671000)
+- <b>Getting started with Dask using Saturn Cloud</b> (Recording coming soon)
 
 ### DC applications
 - [<b>Spatial analytics using Dask and Numba</b>](https://zoom.us/rec/share/pdWvOlS5FcUZUUKk46r-1HUnAUmXSNhR_j9E7k8hpRfY-uw64ErGzgn4NWAAqX7I.HZiPDJEtBW41DCnw?startTime=1635447690000)
