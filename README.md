@@ -22,7 +22,7 @@ https://zoom.us/rec/share/AMQ8kWk3NSfGxs5qxim-JTTtr6JNfoDq_PfiMfE0Gfb-Z7pHnSk836
 - <b>How do you benefit by contributing to open source</b>  
 https://zoom.us/rec/share/7a-Ofyk95j20A8zqbghUoKrNQgLaNhnTiJcXPjXmwbpurMqwoDsS6pwu6u7r-Ts.GFZ3SE1vqSd1rsYf?startTime=1634759032000
 
-## Hands-on 101s
+## Easing in with 101s
 - <b>Know your data first: An introduction to exploratory data analysis</b>  
 https://zoom.us/rec/share/713iNHJ63ImaD_KncBsq3YRSmM_ZDkE44J0nUQUyZFwp-172U3wWRQ5JFpY_4B_g.WtW0FGojns9ceG8o?startTime=1635431451000
 - <b>Computational survival analysis</b>  
@@ -324,7 +324,6 @@ Recording: https://zoom.us/rec/share/4XdIQ8OTgtSwVLjJSKUG-wIpUnSDrflcocaaNmn_gLq
 
 ## Libraries/frameworks/platforms/projects and updates
 
-### Worth a look
 - <b>BLOSC2: The next generation of the BLOSC compressor</b>  
 https://zoom.us/rec/share/dbDxZE4uqgHP9ZsHqBRZkgkq6tiGlTNXAlVp4xm476P_fXeNoGMgxAMWFVZPnOUE.03qp79KDcYdFUC0K?startTime=1635420705000
 - <b>Polars: The fastest dataframe library you have never heard of</b>  
@@ -389,16 +388,20 @@ https://zoom.us/rec/share/MhHxZLi-SMkU3Sewhv7MKLWhgS0y0T7E7xFqAWfukUNdUGtFJFcHxJ
 https://zoom.us/rec/share/IDEy0iDrDrGo5pimmKPAq_zBT8uVHGIt1MNgP2f9-X-9mVoZ2BvfXmL6eHijP3hS.5amXOW6ThM-CYX55?startTime=1635445991000
 
 ## Fascinating applications
-- <b>Redefining insurance with predictive and preventive artificial intelligence</b>  
-https://zoom.us/rec/share/yPATxs1QUqLhQCNhFEQ7WDvUDMhDB7iNoNaDFSvvm3JaXXsyL92X6LRNTsoumxvj.6z4xmAkawqvtrPZr?startTime=1635406327000
 - <b>Components, workflows, and cookbooks - Building medical grade AI pripelines with Argo workflows</b>  
 https://zoom.us/rec/share/xJpyNT9r_KKG1CYXx3OPsDRYsHV8gj8Eybl0zkKv7hZ4x978Kgu3oPWYCnWwhUeY.mDp0_04myX9EZwHA?startTime=1635413499000
 - <b>Machine learning health: Predicting pregnancy complications</b>  
 https://zoom.us/rec/share/2jNbr4u_qn4ecYUXmPtRLpao9KD7cm70Yd31hnXC-CUcMmvJh4wA5d-H3PetA3q0.YUoW5_Sm6_Rs4QL4?startTime=1635498112000
-- <b>Keeping sensitive data safe using recommendation systems (paypal)</b>  
-https://zoom.us/rec/share/xJpyNT9r_KKG1CYXx3OPsDRYsHV8gj8Eybl0zkKv7hZ4x978Kgu3oPWYCnWwhUeY.mDp0_04myX9EZwHA?startTime=1635415227000
+- <b>Deep learning aided drug discovery</b>  
+https://zoom.us/rec/share/2Aitd9WKLXVBTFDhKhm-xy6aDTnGsZQkUtrGFNXSZP6hS6Z8KjCMI77iTshBvdww.-4EAgxOvtam6Knus?startTime=1635525217000
+- <b> Sparcle: Assigning transcripts to cells in multiplexed images</b>  
+https://zoom.us/rec/share/I975sr0BhiK3w22Dgxvi20WAOdOP1bQz9TrnNonGf8RndJifgDKfsoQrANS4Nx7t.AnrPF3YKinIPZLWd?startTime=1635539557000
 - <b>Analysing gender based violence data with Python</b>  
 https://zoom.us/rec/share/5jcDgBv6D0dh3-Os67RbEzJiNS1p_eJ498X6gcTaPadMxGtqCIHhObXZCqY14jTE.6xg3RPOWzXwInbzi?startTime=1635420064000
+- <b>Redefining insurance with predictive and preventive artificial intelligence</b>  
+https://zoom.us/rec/share/yPATxs1QUqLhQCNhFEQ7WDvUDMhDB7iNoNaDFSvvm3JaXXsyL92X6LRNTsoumxvj.6z4xmAkawqvtrPZr?startTime=1635406327000
+- <b>Keeping sensitive data safe using recommendation systems (paypal)</b>  
+https://zoom.us/rec/share/xJpyNT9r_KKG1CYXx3OPsDRYsHV8gj8Eybl0zkKv7hZ4x978Kgu3oPWYCnWwhUeY.mDp0_04myX9EZwHA?startTime=1635415227000
 - <b>Risk as scale - Running a large investment risk system and how risk analysis techniques can help you</b>  
 https://zoom.us/rec/share/LTwQxPDBQUhePIwhPK_pWi84ShH1-uMdOc2mURZBm1yxC_MZ2JzbpLE3hxiB--jY.Adlw3HkwGryYxVis?startTime=1635422358000
 - <b>Innovating in the oil and gas industry with AI/ML</b>  
@@ -407,18 +410,14 @@ https://zoom.us/rec/share/pdWvOlS5FcUZUUKk46r-1HUnAUmXSNhR_j9E7k8hpRfY-uw64ErGzg
 https://zoom.us/rec/share/D3kkhW-Kui-21Ox83XAe94aRjXia_wpi9VTdY9-ddFgTERKuGXBgyNz-bb153r4Z.odwruwGHpfmGIxNZ?startTime=1635444196000
 - <b>Deep neural deduplication</b>  
 https://zoom.us/rec/share/dbDxZE4uqgHP9ZsHqBRZkgkq6tiGlTNXAlVp4xm476P_fXeNoGMgxAMWFVZPnOUE.03qp79KDcYdFUC0K?startTime=1635426023000
-- <b>Deep learning aided drug discovery</b>  
-https://zoom.us/rec/share/2Aitd9WKLXVBTFDhKhm-xy6aDTnGsZQkUtrGFNXSZP6hS6Z8KjCMI77iTshBvdww.-4EAgxOvtam6Knus?startTime=1635525217000
-- <b> Sparcle: Assigning transcripts to cells in multiplexed images</b>  
-https://zoom.us/rec/share/I975sr0BhiK3w22Dgxvi20WAOdOP1bQz9TrnNonGf8RndJifgDKfsoQrANS4Nx7t.AnrPF3YKinIPZLWd?startTime=1635539557000
-- <b>Using a pythonic compass to link the physics community to the chemistry community</b>  
-https://zoom.us/rec/share/Hj6KYCNgoCETZu71ffYroGXa1_aHs9_EJpDif0Q1Nl-L0VMxg3t8Ya_Arjz_tR4v.WJZfEcXURaL6eplq?startTime=1635537718000
 - <b>Bridging data and business: Power plant output optimisation based on electricity market price</b>  
 https://zoom.us/rec/share/6f8TQyEs9CJpDT6w8-JSlMFPwoBADlTL2sliMrajH7RAUjGjB01butqg-rya5Whc.B35q4ysp3Xj04qlS?startTime=1635534022000
 - <b>Data and tools to model PV systems</b>  
 https://zoom.us/rec/share/PM4C0JbLymDmOJP7Hhr5ys3bcp5p0CIv1tnnsRwiQOHci-Dxjhse0Ol1tfJ_GQNf.11T1oniZJlRD68ge?startTime=1635526843000
 - <b>Football analytics using hierarchical Bayesian models in PyMC3</b>  
 https://zoom.us/rec/share/2jNbr4u_qn4ecYUXmPtRLpao9KD7cm70Yd31hnXC-CUcMmvJh4wA5d-H3PetA3q0.YUoW5_Sm6_Rs4QL4?startTime=1635501579000
+- <b>Using a pythonic compass to link the physics community to the chemistry community</b>  
+https://zoom.us/rec/share/Hj6KYCNgoCETZu71ffYroGXa1_aHs9_EJpDif0Q1Nl-L0VMxg3t8Ya_Arjz_tR4v.WJZfEcXURaL6eplq?startTime=1635537718000
 
 ### Computer vision
 - <b>Wounds over time - Tracking wound healing via 3D models</b>  
