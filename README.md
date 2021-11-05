@@ -1,6 +1,6 @@
 # PyData Global 2021
 
-After three-day long sessions of excellent talks at the global 2021 PyData, below is a simple manual clustering of all the talks for fellow enthusiasts like me. Note that the Youtube links will be available in a month or two. But for now below are the links to the zoom recordings. For description of the talks, check out https://pydata.org/global2021/events page  
+After three-day long sessions of excellent talks at the global 2021 PyData, below is a simple manual clustering of all the talks for fellow enthusiasts like me. Note that the Youtube links will be available in a month or two. But for now below are the links to the zoom recordings. For description of the talks, check out [events](https://pydata.org/global2021/events) page  
 
 Welcome video: https://youtu.be/camjrNVMyIs
 
