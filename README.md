@@ -42,7 +42,7 @@ https://zoom.us/rec/share/2jNbr4u_qn4ecYUXmPtRLpao9KD7cm70Yd31hnXC-CUcMmvJh4wA5d
 ## Version control
 - [<b>Think like Git</b>](https://zoom.us/rec/share/x1AV6NkGektH8BH_jnLdmMz7tw8M46OkNwEQBKTRVQENyKZKTOq6q8g711uLbq3y.xp-adyJSoMuGJMiE?startTime=1635440466000)
 - [<b>DVC showcase - Who moved my data?</b>](https://zoom.us/rec/share/B-s7RG8DoriAN5V9hcy7oBP9iHVEpzenuLxkX-qutunE0hYCbTZs-VgHh7w5vepF.knt9Zj3CRweGMDp9?startTime=1635418912000)
-  - [<b>Using reproducible experiments to create better machine learning models (using DVC)</b>](https://zoom.us/rec/share/nfrdtSf7DLx1zMDfcikseuTF1iTBwL6JCrtJGumJqHjpIw6DeO6grp3_MHWqtBiE.Rc3TIbYmQSyQTcGH?startTime=1635631103000)
+  - [<b>Using reproducible experiments to create better machine learning models</b>](https://zoom.us/rec/share/nfrdtSf7DLx1zMDfcikseuTF1iTBwL6JCrtJGumJqHjpIw6DeO6grp3_MHWqtBiE.Rc3TIbYmQSyQTcGH?startTime=1635631103000)
 
 ## Documentation
 - [<b>Document your scientific project with Markdown, Sphinx, and read the docs</b>](https://zoom.us/rec/share/Gk1zGa1VGyqSlWpoeJty9O_nstZx0cuVF0ApVzBibmBe-Fh8ZbqBKOpiNzw2lxlL.giLDfc9osjey4Uze?startTime=1635424398000)
