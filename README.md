@@ -50,7 +50,7 @@ https://zoom.us/rec/share/2jNbr4u_qn4ecYUXmPtRLpao9KD7cm70Yd31hnXC-CUcMmvJh4wA5d
 - [<b>Dask for everyone</b>](https://zoom.us/rec/share/5dUuXBGcSY5MYs7CJ8RmAQ5wPh4S0He9il6_0k5BO5BZ-CDOk1wqbBa19Dz35W1D.MvTTvkqKkbjrVs0U?startTime=1635494480000)
 - [<b>Data processing at scale</b>](https://zoom.us/rec/share/If9gCri1Xt5K6C46ZZ5ksP5bHMmKKyjihXIS2H7S7ucxKtqdeQUpE8bokN6MRu4.17ja6uXMX7dhXq3X?startTime=1635515996000)
 - [<b>Unifying large scale data preprocessing and machine learning pipelines</b>](https://zoom.us/rec/share/0cjbk_YdCTbiTm7gNhzSeNxxTCCEy1pCDUkkjfBjtvOsKGA8XmDOx82jflHdQCUP.fsjQkj5PWSYplOTz?startTime=1635456658000)
-- [<b>Towards cloud-native distributed machine learning pipelines at scale</b>
+- <b>Towards cloud-native distributed machine learning pipelines at scale</b>
   - [Recording](https://www.youtube.com/watch?v=dNzb_-JD6T0)
   - [Slides](https://github.com/terrytangyuan/public-talks/blob/main/talks/towards-cloud-native-distributed-machine-learning-pipelines-at-scale-pydata-global-2021/presentation.pdf)
 - [<b> 5 reasons parquet files are better than csv for data analysis</b>](https://zoom.us/rec/share/x1AV6NkGektH8BH_jnLdmMz7tw8M46OkNwEQBKTRVQENyKZKTOq6q8g711uLbq3y.xp-adyJSoMuGJMiE?startTime=1635442234000)
