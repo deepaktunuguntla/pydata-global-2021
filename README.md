@@ -28,7 +28,7 @@ https://zoom.us/rec/share/nfrdtSf7DLx1zMDfcikseuTF1iTBwL6JCrtJGumJqHjpIw6DeO6grp
 - <b>GPU development with Python 101</b>  
 https://zoom.us/rec/share/0Gkopugx3rzh3YsXUadjFGej2JHO3BoiUdsG_RWn7JqX7gsL3u555zg8Hs4eN8zL.XIk1sNSOBJW_G5gV?startTime=1635440409000
 - <b>Building linear programs with ORTools (Tesco)</b>  
-No recording
+No recording  
 - <b>Data analysis with Pandas and Numpy</b>
 Recording coming soon
 
@@ -227,9 +227,9 @@ Coming soon
 
 ## Insightful
 - <b>So you wanna be a Pandas expert?</b>  
-pre-recorded tutorial: https://www.youtube.com/watch?v=pjq3QOxl9Ok  
-recording: https://www.youtube.com/watch?v=pjq3QOxl9Ok  
-live Q&A: https://zoom.us/rec/share/HZCezj59UGw88oLmpovnvXIqD2UFBI4louzeNE9VKDZvms66XwqoUZDBncVnPXB-.DyzbErAo6tJc7-CF?startTime=1635598934000
+Pre-recorded tutorial: https://www.youtube.com/watch?v=pjq3QOxl9Ok  
+Recording: https://www.youtube.com/watch?v=pjq3QOxl9Ok  
+Live Q&A: https://zoom.us/rec/share/HZCezj59UGw88oLmpovnvXIqD2UFBI4louzeNE9VKDZvms66XwqoUZDBncVnPXB-.DyzbErAo6tJc7-CF?startTime=1635598934000
 - <b>Some attention for attenuation bias</b>  
 https://zoom.us/rec/share/-fbWM7-qwpfEogchxTC-YWiGI4uJqiS3gLGQytzQrHcm6__8m0S4JEkF-9saG2c.m2xiAqmch5iR12Ib?startTime=1635519628000
 - <b>What could possibily go wrong when evaluating forecasts?</b>
