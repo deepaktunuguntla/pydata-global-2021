@@ -10,6 +10,18 @@ https://zoom.us/rec/share/AUJTje3O5L4v0iHyH87T_clsOZUP6EP3CJ_k2UKUcLRLsjUOwzETYJ
 - <b>Naomi Ceder</b>  
 https://zoom.us/rec/share/tWp3lCVhtBZ0YA94mHQN3whW09gc1AwBQckXidEtxbldrkWwhOY9m3rvDa39PmL_.MwhvPXF6LDYJQr4u?startTime=1635616916000  
 
+## Expert briefings
+- <b>The state of the art for probabilistic programming</b>  
+https://zoom.us/rec/share/UpC6qhHykrqIrOgk8naeG8GahsnLGKMEoS-E4YNL_u22M2DKi38X55DOtWcH7LdS.AWzZKFDXkfPVsQ3A?startTime=1634565536000
+- <b>How to ensure responsible use of AI with a real-world example</b>  
+https://zoom.us/rec/share/vVOOcn9o_j2wj26HwQ4pKUVwgxJORJNo1-JXWnuPSWJph67BZt00-z6xpaAlfygT.Xe04trAEdTnN6Ros?startTime=1634578971000
+- <b>The state of higher performance Python</b>  
+https://zoom.us/rec/share/o0qELDD2V2u1PL4juyIWZ1ZXwxEvA3-ucBwmdQsXLMPt3_m2Ya7p1wph1O9rRLs7.nJGQ0kZdl1UQsagw?startTime=1634744737000
+- <b>Natural language processing: Trends, challenges and opportunities</b>  
+https://zoom.us/rec/share/AMQ8kWk3NSfGxs5qxim-JTTtr6JNfoDq_PfiMfE0Gfb-Z7pHnSk8360Kq_yYq1Oy.7iNQ7DdO3SZ7rzQm?startTime=1634748909000
+- <b>How do you benefit by contributing to open source</b>  
+https://zoom.us/rec/share/7a-Ofyk95j20A8zqbghUoKrNQgLaNhnTiJcXPjXmwbpurMqwoDsS6pwu6u7r-Ts.GFZ3SE1vqSd1rsYf?startTime=1634759032000
+
 ## Hands-on 101s
 - <b>Know your data first: An introduction to exploratory data analysis</b>  
 https://zoom.us/rec/share/713iNHJ63ImaD_KncBsq3YRSmM_ZDkE44J0nUQUyZFwp-172U3wWRQ5JFpY_4B_g.WtW0FGojns9ceG8o?startTime=1635431451000
