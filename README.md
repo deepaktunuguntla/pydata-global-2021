@@ -287,6 +287,28 @@ Recording: https://zoom.us/rec/share/so5Gb6Hn6Wd8U8Q1_fhro8cubBOCaVH3UbFye3Kjw4S
 ### Block 3-1
 - sktime: A unified toolbox for machine learning with time series data
 - Automatic body part recognition for medical images with Python
+- Stau - lightweight job orchestration for data science workloads
+- Building a meta forecasting model with Prophet and LSTM for time series forecasting
+- Using scikit-learn models in C/C++ application
+- Pointer generator summarisation and explainability for legal documents
+- gin@home: Run your own research data management platform
+- AMazing things your (unix) operating ssytem can do for you: POSIX shared memory
+- Adapters: A neat (and production-enabling) trick for multi-task and multi-lingual NLP
+- Lightweight and automated exploratory data analysis  
+
+Recording: https://zoom.us/rec/share/7paEeatTxjqbxbTOB4FwOEH5tn8MDo00_dx0z3FdiHAxwN88NqCKz6ezlWpOfebz.W9R2pL9sUKroYqE3?startTime=1635591966000
+
+### Block 3-2
+- Building an open source topic modelling library
+- Bambi: A new library for Bayessian modelling in Python
+- Automatic pattern-based data catalogs
+- MyGrad: Drop-in automatic differentiation for NumPy
+- Best approximation of PI: an investigation with Python
+- The need for modular data science solutions
+- It's not just about survival: Using survival analysis to study customer behaviour
+- Improving topic model interpretability through aggregation  
+
+Recording: https://zoom.us/rec/share/4XdIQ8OTgtSwVLjJSKUG-wIpUnSDrflcocaaNmn_gLqn5khwCmS2k4Lf8hc46CRF.Zb-8bsGlgbCNcSF2?startTime=1635620569000
 
 ## Libraries/frameworks/platforms/projects and updates
 
