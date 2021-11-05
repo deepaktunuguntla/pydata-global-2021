@@ -43,16 +43,16 @@ https://zoom.us/rec/share/2jNbr4u_qn4ecYUXmPtRLpao9KD7cm70Yd31hnXC-CUcMmvJh4wA5d
 - [<b>Think like Git</b>](https://zoom.us/rec/share/x1AV6NkGektH8BH_jnLdmMz7tw8M46OkNwEQBKTRVQENyKZKTOq6q8g711uLbq3y.xp-adyJSoMuGJMiE?startTime=1635440466000)
 
 ## Documentation
-- [<b>Document your scientific project with Markdown, Sphinx, and read the docs</b>](
-https://zoom.us/rec/share/Gk1zGa1VGyqSlWpoeJty9O_nstZx0cuVF0ApVzBibmBe-Fh8ZbqBKOpiNzw2lxlL.giLDfc9osjey4Uze?startTime=1635424398000
+- [<b>Document your scientific project with Markdown, Sphinx, and read the docs</b>](https://zoom.us/rec/share/Gk1zGa1VGyqSlWpoeJty9O_nstZx0cuVF0ApVzBibmBe-Fh8ZbqBKOpiNzw2lxlL.giLDfc9osjey4Uze?startTime=1635424398000)
 
 ## Distributive computing (DC)
 - [<b>Dask: From POC to production</b>](https://zoom.us/rec/share/LTwQxPDBQUhePIwhPK_pWi84ShH1-uMdOc2mURZBm1yxC_MZ2JzbpLE3hxiB--jY.Adlw3HkwGryYxVis?startTime=1635427879000)
 - [<b>Dask for everyone</b>](https://zoom.us/rec/share/5dUuXBGcSY5MYs7CJ8RmAQ5wPh4S0He9il6_0k5BO5BZ-CDOk1wqbBa19Dz35W1D.MvTTvkqKkbjrVs0U?startTime=1635494480000)
 - [<b>Data processing at scale</b>](https://zoom.us/rec/share/If9gCri1Xt5K6C46ZZ5ksP5bHMmKKyjihXIS2H7S7ucxKtqdeQUpE8bokN6MRu4.17ja6uXMX7dhXq3X?startTime=1635515996000)
 - [<b>Unifying large scale data preprocessing and machine learning pipelines</b>](https://zoom.us/rec/share/0cjbk_YdCTbiTm7gNhzSeNxxTCCEy1pCDUkkjfBjtvOsKGA8XmDOx82jflHdQCUP.fsjQkj5PWSYplOTz?startTime=1635456658000)
-- [<b>Towards cloud-native distributed machine learning pipelines at scale</b>](https://www.youtube.com/watch?v=dNzb_-JD6T0)
-https://github.com/terrytangyuan/public-talks/blob/main/talks/towards-cloud-native-distributed-machine-learning-pipelines-at-scale-pydata-global-2021/presentation.pdf
+- [<b>Towards cloud-native distributed machine learning pipelines at scale</b>
+  - [Recording](https://www.youtube.com/watch?v=dNzb_-JD6T0)
+  - [Slides](https://github.com/terrytangyuan/public-talks/blob/main/talks/towards-cloud-native-distributed-machine-learning-pipelines-at-scale-pydata-global-2021/presentation.pdf)
 - [<b> 5 reasons parquet files are better than csv for data analysis</b>](https://zoom.us/rec/share/x1AV6NkGektH8BH_jnLdmMz7tw8M46OkNwEQBKTRVQENyKZKTOq6q8g711uLbq3y.xp-adyJSoMuGJMiE?startTime=1635442234000)
 - [<b>Simplifying testing of Spark applications</b>](https://zoom.us/rec/share/EZY3slKU8aCA3NFwF5z7JPPOhMjBMwLZ7OFMaGFziTDmKYzb8GgSvtzd18VHkA0A.lcjqG1XwevyCdwa9?startTime=1635611402000)
 
@@ -167,7 +167,7 @@ https://github.com/terrytangyuan/public-talks/blob/main/talks/towards-cloud-nati
 - What's new in Bokeh 2.4
 - Using IPython as presentation tool  
 
-[Recording](https://zoom.us/rec/share/sIjkoHCit8i86HnJJ6Xr0yPRZ6E8t-o-wVxK33Ux80dgjhyHPrvbiOhisMvHL7t3.eHyXVc_NyeHGV-7J?startTime=1635451297000)
+[<b>Recording</b>](https://zoom.us/rec/share/sIjkoHCit8i86HnJJ6Xr0yPRZ6E8t-o-wVxK33Ux80dgjhyHPrvbiOhisMvHL7t3.eHyXVc_NyeHGV-7J?startTime=1635451297000)
 
 ### Block 2-1
 - Take a deep berth and lets dive into the matching algorith for Marina's
@@ -189,7 +189,7 @@ https://github.com/terrytangyuan/public-talks/blob/main/talks/towards-cloud-nati
 - Pragmatic advice for implementing responsible machine learning: Technical and organisational best practices
 - Snack-size awesome lists  
 
-[<b>Recording</b>]https://zoom.us/rec/share/so5Gb6Hn6Wd8U8Q1_fhro8cubBOCaVH3UbFye3Kjw4SnZnyIZWB3EBN2NY3OEIH0.eOLV3Jq98SRlDHHx?startTime=1635516058000)
+[<b>Recording</b>](https://zoom.us/rec/share/so5Gb6Hn6Wd8U8Q1_fhro8cubBOCaVH3UbFye3Kjw4SnZnyIZWB3EBN2NY3OEIH0.eOLV3Jq98SRlDHHx?startTime=1635516058000)
 
 ### Block 3-1
 - sktime: A unified toolbox for machine learning with time series data
