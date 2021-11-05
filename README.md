@@ -32,7 +32,7 @@ No recording
 - <b>Data analysis with Pandas and Numpy</b>
 Recording coming soon
 
-## Jupyter notebooks special
+## Jupyter notebooks specials
 - <b>Notebook to production</b>  
 https://zoom.us/rec/share/yPATxs1QUqLhQCNhFEQ7WDvUDMhDB7iNoNaDFSvvm3JaXXsyL92X6LRNTsoumxvj.6z4xmAkawqvtrPZr?startTime=1635409973000
 - <b>Collaborative editing in Jupyter notebook</b>  
@@ -181,28 +181,6 @@ https://zoom.us/rec/share/I975sr0BhiK3w22Dgxvi20WAOdOP1bQz9TrnNonGf8RndJifgDKfso
 - <b>Serving BERT models in production with TorchServe</b>  
 https://zoom.us/rec/share/YBggDeMce-vY2v8c5en-xAijSr0_r1cmDO4HpmLVRVHFgPrCcVy3zh18AT9vcLO3.IyND-DFUFLq4hw2r?startTime=1635532258000
 
-## Insightful
-- <b>So you wanna be a Pandas expert?</b>  
-pre-recorded tutorial: https://www.youtube.com/watch?v=pjq3QOxl9Ok  
-recording: https://www.youtube.com/watch?v=pjq3QOxl9Ok  
-live Q&A: https://zoom.us/rec/share/HZCezj59UGw88oLmpovnvXIqD2UFBI4louzeNE9VKDZvms66XwqoUZDBncVnPXB-.DyzbErAo6tJc7-CF?startTime=1635598934000
-- <b>Some attention for attenuation bias</b>  
-https://zoom.us/rec/share/-fbWM7-qwpfEogchxTC-YWiGI4uJqiS3gLGQytzQrHcm6__8m0S4JEkF-9saG2c.m2xiAqmch5iR12Ib?startTime=1635519628000
-- <b>What could possibily go wrong when evaluating forecasts?</b>
-https://zoom.us/rec/share/IQYqC2B35mC2zB5WyM5yFntjnAbjNLIuTyxV3_72Pq6G2RsCtDhxCtisZDlGEeTm.0W2jkovIwW0WRAx_?startTime=1635584328000
-- <b>Modelling aleatoric and epistemix uncertainity using Tensorflow and Tensorflow probability</b>  
-https://zoom.us/rec/share/IQYqC2B35mC2zB5WyM5yFntjnAbjNLIuTyxV3_72Pq6G2RsCtDhxCtisZDlGEeTm.0W2jkovIwW0WRAx_?startTime=1635586276000
-- <b>Making the perfect cup of joa: Active preference learning and optimisation under uncertainity</b>  
-https://zoom.us/rec/share/jgs_uVreG397j3knVpMxUYxn7U5yZMetg4Ts96kkGNzZWd2I4b_XwK8_ABNezxv3.fV94UCmTI0STgwsq?startTime=1635624212000
-- <b>What to do when you can't trust your labels? A practical approach</b>  
-https://zoom.us/rec/share/jgs_uVreG397j3knVpMxUYxn7U5yZMetg4Ts96kkGNzZWd2I4b_XwK8_ABNezxv3.fV94UCmTI0STgwsq?startTime=1635625954000
-- <b>Compressive sensing</b>  
-https://zoom.us/rec/share/giuD3cpPl9WDuJQFA4I-6WW4H_GS5l4KQ2jBL8LH1pKVqdEl-gzFMWR7PZWtJQ_B.DOpH5ua19l9FaJYV?startTime=1635405990000
-- <b>Visualisations for privacy preservation: The balancing act between utility and uncertainity</b>  
-https://zoom.us/rec/share/giuD3cpPl9WDuJQFA4I-6WW4H_GS5l4KQ2jBL8LH1pKVqdEl-gzFMWR7PZWtJQ_B.DOpH5ua19l9FaJYV?startTime=1635408149000
-- <b>Anyone GAN do this: Solving the minority class imbalance problem once and for all</b>  
-Recording coming soon
-
 ## Dashboarding
 - <b>Why interactive data visualisation matter for data science in Python</b>  
 https://zoom.us/rec/share/LTwQxPDBQUhePIwhPK_pWi84ShH1-uMdOc2mURZBm1yxC_MZ2JzbpLE3hxiB--jY.Adlw3HkwGryYxVis?startTime=1635424240000
@@ -246,6 +224,69 @@ Coming soon
 https://zoom.us/rec/share/yPATxs1QUqLhQCNhFEQ7WDvUDMhDB7iNoNaDFSvvm3JaXXsyL92X6LRNTsoumxvj.6z4xmAkawqvtrPZr?startTime=1635413557000
 - <b>Sliding into causal inference, with Python!</b>  
 Coming soon
+
+## Insightful
+- <b>So you wanna be a Pandas expert?</b>  
+pre-recorded tutorial: https://www.youtube.com/watch?v=pjq3QOxl9Ok  
+recording: https://www.youtube.com/watch?v=pjq3QOxl9Ok  
+live Q&A: https://zoom.us/rec/share/HZCezj59UGw88oLmpovnvXIqD2UFBI4louzeNE9VKDZvms66XwqoUZDBncVnPXB-.DyzbErAo6tJc7-CF?startTime=1635598934000
+- <b>Some attention for attenuation bias</b>  
+https://zoom.us/rec/share/-fbWM7-qwpfEogchxTC-YWiGI4uJqiS3gLGQytzQrHcm6__8m0S4JEkF-9saG2c.m2xiAqmch5iR12Ib?startTime=1635519628000
+- <b>What could possibily go wrong when evaluating forecasts?</b>
+https://zoom.us/rec/share/IQYqC2B35mC2zB5WyM5yFntjnAbjNLIuTyxV3_72Pq6G2RsCtDhxCtisZDlGEeTm.0W2jkovIwW0WRAx_?startTime=1635584328000
+- <b>Modelling aleatoric and epistemix uncertainity using Tensorflow and Tensorflow probability</b>  
+https://zoom.us/rec/share/IQYqC2B35mC2zB5WyM5yFntjnAbjNLIuTyxV3_72Pq6G2RsCtDhxCtisZDlGEeTm.0W2jkovIwW0WRAx_?startTime=1635586276000
+- <b>Making the perfect cup of joa: Active preference learning and optimisation under uncertainity</b>  
+https://zoom.us/rec/share/jgs_uVreG397j3knVpMxUYxn7U5yZMetg4Ts96kkGNzZWd2I4b_XwK8_ABNezxv3.fV94UCmTI0STgwsq?startTime=1635624212000
+- <b>What to do when you can't trust your labels? A practical approach</b>  
+https://zoom.us/rec/share/jgs_uVreG397j3knVpMxUYxn7U5yZMetg4Ts96kkGNzZWd2I4b_XwK8_ABNezxv3.fV94UCmTI0STgwsq?startTime=1635625954000
+- <b>Compressive sensing</b>  
+https://zoom.us/rec/share/giuD3cpPl9WDuJQFA4I-6WW4H_GS5l4KQ2jBL8LH1pKVqdEl-gzFMWR7PZWtJQ_B.DOpH5ua19l9FaJYV?startTime=1635405990000
+- <b>Visualisations for privacy preservation: The balancing act between utility and uncertainity</b>  
+https://zoom.us/rec/share/giuD3cpPl9WDuJQFA4I-6WW4H_GS5l4KQ2jBL8LH1pKVqdEl-gzFMWR7PZWtJQ_B.DOpH5ua19l9FaJYV?startTime=1635408149000
+- <b>Anyone GAN do this: Solving the minority class imbalance problem once and for all</b>  
+Recording coming soon
+
+## Lightning talks
+
+### Block 1
+- An online pedagogical tool for data science using Bokeh
+- The importance of non-code open source contributions
+- Best of both worlds: R & Python
+- Can the "Best" language model detect fallacies?
+- Unlocking insight from you media collection by analysing audio
+- A visual Odyssey: Animations and visualisations made with Julia
+- How generative adversarial networks (GANs) can predict the rank of elliptic curves
+- What's new in Bokeh 2.4
+- Using IPython as presentation tool  
+
+Recording: https://zoom.us/rec/share/sIjkoHCit8i86HnJJ6Xr0yPRZ6E8t-o-wVxK33Ux80dgjhyHPrvbiOhisMvHL7t3.eHyXVc_NyeHGV-7J?startTime=1635451297000
+
+### Block 2-1
+- Take a deep berth and lets dive into the matching algorith for Marina's
+- Tips and advice when creating a python software for lab members to use in academia
+- Project Nirvana: A podcast summariser
+- Improving accessibility for data science with graph sonification library
+- Productising wav2vec 2.0: challenges and considerations
+- Tensorflow for the web: Converting python machine learning models to javascript using TFJS converter
+- Livemark: markdown for data journalism and documentation writing
+- Modelling and data visualisation for commodity trading  
+
+Recording: https://zoom.us/rec/share/pddeWHKzQ0wSfNMKxytpvMcNu6gN3sfNojsdW6uvndytajjw64fjfBh19tbXFxzI.aj5eZIJSp32vq6LM?startTime=1635487241000
+
+### Block 2-2
+- Stress test center: Moving the stress from the user to the model
+- Run any Python code quality tool on a Jupyter Notebook!
+- Kickstart your Apache Kafka with Faker data
+- ARGO: A new rule generation and optimisation package
+- Pragmatic advice for implementing responsible machine learning: Technical and organisational best practices
+- Snack-size awesome lists  
+
+Recording: https://zoom.us/rec/share/so5Gb6Hn6Wd8U8Q1_fhro8cubBOCaVH3UbFye3Kjw4SnZnyIZWB3EBN2NY3OEIH0.eOLV3Jq98SRlDHHx?startTime=1635516058000
+
+### Block 3-1
+- sktime: A unified toolbox for machine learning with time series data
+- Automatic body part recognition for medical images with Python
 
 ## Libraries/frameworks/platforms/projects and updates
 
