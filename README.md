@@ -1,76 +1,46 @@
 # PyData Global 2021
 
-After three-day long sessions of excellent talks at the global 2021 PyData, below is a simple manual clustering of all the talks for fellow enthusiasts like me. Note that the Youtube links will be available in a month or two. But for now below are the links to the zoom recordings. For description of the talks, check out [events](https://pydata.org/global2021/events) page  
-
-Welcome video: https://youtu.be/camjrNVMyIs
+After three-day long sessions of excellent talks at the global 2021 PyData, below is a simple manual clustering of all the talks for fellow enthusiasts like me. Note that the Youtube links will be available in a month or two. But for now below are the links to the zoom recordings. For description of the talks, check out [events](https://pydata.org/global2021/events) page. But, first the [welcome video](https://youtu.be/camjrNVMyIs)
 
 ## Keynotes
-- <b>David Beazley</b>  
-https://zoom.us/rec/share/AUJTje3O5L4v0iHyH87T_clsOZUP6EP3CJ_k2UKUcLRLsjUOwzETYJM4S0S8CXTI.1kORCztQWQ4kITd2?startTime=1635436806000
-- <b>Naomi Ceder</b>  
-https://zoom.us/rec/share/tWp3lCVhtBZ0YA94mHQN3whW09gc1AwBQckXidEtxbldrkWwhOY9m3rvDa39PmL_.MwhvPXF6LDYJQr4u?startTime=1635616916000  
+- [<b>David Beazley</b>](https://zoom.us/rec/share/AUJTje3O5L4v0iHyH87T_clsOZUP6EP3CJ_k2UKUcLRLsjUOwzETYJM4S0S8CXTI.1kORCztQWQ4kITd2?startTime=1635436806000)
+- [<b>Naomi Ceder</b>](https://zoom.us/rec/share/tWp3lCVhtBZ0YA94mHQN3whW09gc1AwBQckXidEtxbldrkWwhOY9m3rvDa39PmL_.MwhvPXF6LDYJQr4u?startTime=1635616916000)
 
 ## Expert briefings
-- <b>The state of the art for probabilistic programming</b>  
-https://zoom.us/rec/share/UpC6qhHykrqIrOgk8naeG8GahsnLGKMEoS-E4YNL_u22M2DKi38X55DOtWcH7LdS.AWzZKFDXkfPVsQ3A?startTime=1634565536000
-- <b>How to ensure responsible use of AI with a real-world example</b>  
-https://zoom.us/rec/share/vVOOcn9o_j2wj26HwQ4pKUVwgxJORJNo1-JXWnuPSWJph67BZt00-z6xpaAlfygT.Xe04trAEdTnN6Ros?startTime=1634578971000
-- <b>The state of higher performance Python</b>  
-https://zoom.us/rec/share/o0qELDD2V2u1PL4juyIWZ1ZXwxEvA3-ucBwmdQsXLMPt3_m2Ya7p1wph1O9rRLs7.nJGQ0kZdl1UQsagw?startTime=1634744737000
-- <b>Natural language processing: Trends, challenges and opportunities</b>  
-https://zoom.us/rec/share/AMQ8kWk3NSfGxs5qxim-JTTtr6JNfoDq_PfiMfE0Gfb-Z7pHnSk8360Kq_yYq1Oy.7iNQ7DdO3SZ7rzQm?startTime=1634748909000
-- <b>How do you benefit by contributing to open source</b>  
-https://zoom.us/rec/share/7a-Ofyk95j20A8zqbghUoKrNQgLaNhnTiJcXPjXmwbpurMqwoDsS6pwu6u7r-Ts.GFZ3SE1vqSd1rsYf?startTime=1634759032000
+- [<b>The state of the art for probabilistic programming</b>](https://zoom.us/rec/share/UpC6qhHykrqIrOgk8naeG8GahsnLGKMEoS-E4YNL_u22M2DKi38X55DOtWcH7LdS.AWzZKFDXkfPVsQ3A?startTime=1634565536000)
+- [<b>How to ensure responsible use of AI with a real-world example?</b>](https://zoom.us/rec/share/vVOOcn9o_j2wj26HwQ4pKUVwgxJORJNo1-JXWnuPSWJph67BZt00-z6xpaAlfygT.Xe04trAEdTnN6Ros?startTime=1634578971000)
+- [<b>The state of higher performance Python</b>](https://zoom.us/rec/share/o0qELDD2V2u1PL4juyIWZ1ZXwxEvA3-ucBwmdQsXLMPt3_m2Ya7p1wph1O9rRLs7.nJGQ0kZdl1UQsagw?startTime=1634744737000)
+- [<b>Natural language processing: Trends, challenges and opportunities</b>](https://zoom.us/rec/share/AMQ8kWk3NSfGxs5qxim-JTTtr6JNfoDq_PfiMfE0Gfb-Z7pHnSk8360Kq_yYq1Oy.7iNQ7DdO3SZ7rzQm?startTime=1634748909000)
+- [<b>How do you benefit by contributing to open source</b>](https://zoom.us/rec/share/7a-Ofyk95j20A8zqbghUoKrNQgLaNhnTiJcXPjXmwbpurMqwoDsS6pwu6u7r-Ts.GFZ3SE1vqSd1rsYf?startTime=1634759032000)
 
 ## Easing in with 101s
-- <b>Know your data first: An introduction to exploratory data analysis</b>  
-https://zoom.us/rec/share/713iNHJ63ImaD_KncBsq3YRSmM_ZDkE44J0nUQUyZFwp-172U3wWRQ5JFpY_4B_g.WtW0FGojns9ceG8o?startTime=1635431451000
-- <b>Computational survival analysis</b>  
-https://zoom.us/rec/share/i_TIGU29hOeE07xjCM0DuJuOzFxjp-7XhxTLKXDFU1sgdLt2PJeveRnHWeU_Sluj.U6V6dlafHxoOyINw?startTime=1635521499000
-- <b>Lets implement Bayesian ordered logistic regression!</b>  
-https://zoom.us/rec/share/-fbWM7-qwpfEogchxTC-YWiGI4uJqiS3gLGQytzQrHcm6__8m0S4JEkF-9saG2c.m2xiAqmch5iR12Ib?startTime=1635521525000
-- <b>Introduction to distance metric learning</b>  
-https://zoom.us/rec/share/mXrWjmn8H_pSMFkpjDfS6OfVfQ8Z9NRMb3wjHjiIFpq2jyQQ1IA4SVkBqg2V30bx.3EXZyzqMK_TN3MPj?startTime=1635516007000
-- <b>Introduction to quantum computing with Python and Qiskit</b>  
-https://zoom.us/rec/share/2jNbr4u_qn4ecYUXmPtRLpao9KD7cm70Yd31hnXC-CUcMmvJh4wA5d-H3PetA3q0.YUoW5_Sm6_Rs4QL4?startTime=1635499839000
-- <b>Uncertainity quantification 360: A hands-on tutorial</b>  
-https://zoom.us/rec/share/vfnCA1I77rsSYzvSQlegS0LUnudcq0ZjxFWDumpdr3bupdyAG2iBX0dUQACQLSla.rY1cr9S5cSL0IkEb?startTime=1635611455000
-- <b>Introduction to unsupervised and semi-supervised learning in Tensorflow</b>  
-https://zoom.us/rec/share/nfrdtSf7DLx1zMDfcikseuTF1iTBwL6JCrtJGumJqHjpIw6DeO6grp3_MHWqtBiE.Rc3TIbYmQSyQTcGH?startTime=1635625950000
-- <b>GPU development with Python 101</b>  
-https://zoom.us/rec/share/0Gkopugx3rzh3YsXUadjFGej2JHO3BoiUdsG_RWn7JqX7gsL3u555zg8Hs4eN8zL.XIk1sNSOBJW_G5gV?startTime=1635440409000
-- <b>Building linear programs with ORTools (Tesco)</b>  
-No recording  
-- <b>Data analysis with Pandas and Numpy</b>  
-Recording coming soon
+- [<b>Know your data first: An introduction to exploratory data analysis</b>](https://zoom.us/rec/share/713iNHJ63ImaD_KncBsq3YRSmM_ZDkE44J0nUQUyZFwp-172U3wWRQ5JFpY_4B_g.WtW0FGojns9ceG8o?startTime=1635431451000)
+- [<b>Computational survival analysis</b>](https://zoom.us/rec/share/i_TIGU29hOeE07xjCM0DuJuOzFxjp-7XhxTLKXDFU1sgdLt2PJeveRnHWeU_Sluj.U6V6dlafHxoOyINw?startTime=1635521499000)
+- [<b>Lets implement Bayesian ordered logistic regression!</b>](https://zoom.us/rec/share/-fbWM7-qwpfEogchxTC-YWiGI4uJqiS3gLGQytzQrHcm6__8m0S4JEkF-9saG2c.m2xiAqmch5iR12Ib?startTime=1635521525000)
+- [<b>Introduction to distance metric learning</b>](https://zoom.us/rec/share/mXrWjmn8H_pSMFkpjDfS6OfVfQ8Z9NRMb3wjHjiIFpq2jyQQ1IA4SVkBqg2V30bx.3EXZyzqMK_TN3MPj?startTime=1635516007000)
+- [<b>Introduction to quantum computing with Python and Qiskit</b>](
+https://zoom.us/rec/share/2jNbr4u_qn4ecYUXmPtRLpao9KD7cm70Yd31hnXC-CUcMmvJh4wA5d-H3PetA3q0.YUoW5_Sm6_Rs4QL4?startTime=1635499839000)
+- [<b>Uncertainity quantification 360: A hands-on tutorial</b>](https://zoom.us/rec/share/vfnCA1I77rsSYzvSQlegS0LUnudcq0ZjxFWDumpdr3bupdyAG2iBX0dUQACQLSla.rY1cr9S5cSL0IkEb?startTime=1635611455000)
+- [<b>Introduction to unsupervised and semi-supervised learning in Tensorflow</b>](https://zoom.us/rec/share/nfrdtSf7DLx1zMDfcikseuTF1iTBwL6JCrtJGumJqHjpIw6DeO6grp3_MHWqtBiE.Rc3TIbYmQSyQTcGH?startTime=1635625950000)
+- [<b>GPU development with Python 101</b>](https://zoom.us/rec/share/0Gkopugx3rzh3YsXUadjFGej2JHO3BoiUdsG_RWn7JqX7gsL3u555zg8Hs4eN8zL.XIk1sNSOBJW_G5gV?startTime=1635440409000)
+- <b>Data analysis with Pandas and Numpy</b> (Recording coming soon)
+- <b>Building linear programs with ORTools (Tesco)</b>(No recording)
 
 ## Jupyter notebooks specials
-- <b>Notebook to production</b>  
-https://zoom.us/rec/share/yPATxs1QUqLhQCNhFEQ7WDvUDMhDB7iNoNaDFSvvm3JaXXsyL92X6LRNTsoumxvj.6z4xmAkawqvtrPZr?startTime=1635409973000
-- <b>Collaborative editing in Jupyter notebook</b>  
-https://zoom.us/rec/share/yPATxs1QUqLhQCNhFEQ7WDvUDMhDB7iNoNaDFSvvm3JaXXsyL92X6LRNTsoumxvj.6z4xmAkawqvtrPZr?startTime=1635411742000
-- <b>JupyterLite: Jupyter-WebAssembly-Python</b>  
-https://zoom.us/rec/share/AAqL5-5tQ43ZSgKkTvXsLLHxP3kjDGj866rkMHGzqKqDSWe4Uhe5C40JGOgP3Dae._5oPguwt16VEtq6f?startTime=1635505291000
-- <b>From Jupyter notebooks to JetBrains DataSpell</b>  
-https://zoom.us/rec/share/5dUuXBGcSY5MYs7CJ8RmAQ5wPh4S0He9il6_0k5BO5BZ-CDOk1wqbBa19Dz35W1D.MvTTvkqKkbjrVs0U?startTime=1635501723000
-- <b>Build polished, data-driven applications directly from yours pandas or xarray pipelines</b>  
-https://zoom.us/rec/share/AAqL5-5tQ43ZSgKkTvXsLLHxP3kjDGj866rkMHGzqKqDSWe4Uhe5C40JGOgP3Dae._5oPguwt16VEtq6f?startTime=1635508803000
-- <b> From Jupyter notebook to production web app, with Anvil and (only) Python</b>  
-https://zoom.us/rec/share/2Aitd9WKLXVBTFDhKhm-xy6aDTnGsZQkUtrGFNXSZP6hS6Z8KjCMI77iTshBvdww.-4EAgxOvtam6Knus?startTime=1635519734000
-- <b>Extending Jupyter data visualisations beyond the notebook</b>  
-https://zoom.us/rec/share/nfrdtSf7DLx1zMDfcikseuTF1iTBwL6JCrtJGumJqHjpIw6DeO6grp3_MHWqtBiE.Rc3TIbYmQSyQTcGH?startTime=1635624013000
-- <b>Get to know Apache Kafka with Jupyter notebooks</b>  
-https://zoom.us/rec/share/YBPWTnWgeomwLhi3lJEltAqC0pByZNHZVBDb-UaQ0ze9M5DDXY9ug3tjtMHAx9Mi.r29uRLuZkgoyw7lp?startTime=1635419402000
-- <b>From Jupyter to production: Deploying an influenza monitoring system at scale with wearable sensors</b>  
-https://zoom.us/rec/share/jgs_uVreG397j3knVpMxUYxn7U5yZMetg4Ts96kkGNzZWd2I4b_XwK8_ABNezxv3.fV94UCmTI0STgwsq?startTime=1635629583000
+- [<b>Notebook to production</b>](https://zoom.us/rec/share/yPATxs1QUqLhQCNhFEQ7WDvUDMhDB7iNoNaDFSvvm3JaXXsyL92X6LRNTsoumxvj.6z4xmAkawqvtrPZr?startTime=1635409973000)
+- [<b>Collaborative editing in Jupyter notebook</b>](https://zoom.us/rec/share/yPATxs1QUqLhQCNhFEQ7WDvUDMhDB7iNoNaDFSvvm3JaXXsyL92X6LRNTsoumxvj.6z4xmAkawqvtrPZr?startTime=1635411742000)
+- [<b>JupyterLite: Jupyter-WebAssembly-Python</b>](https://zoom.us/rec/share/AAqL5-5tQ43ZSgKkTvXsLLHxP3kjDGj866rkMHGzqKqDSWe4Uhe5C40JGOgP3Dae._5oPguwt16VEtq6f?startTime=1635505291000)
+- [<b>From Jupyter notebooks to JetBrains DataSpell</b>](https://zoom.us/rec/share/5dUuXBGcSY5MYs7CJ8RmAQ5wPh4S0He9il6_0k5BO5BZ-CDOk1wqbBa19Dz35W1D.MvTTvkqKkbjrVs0U?startTime=1635501723000)
+- [<b>Build polished, data-driven applications directly from yours pandas or xarray pipelines</b>](https://zoom.us/rec/share/AAqL5-5tQ43ZSgKkTvXsLLHxP3kjDGj866rkMHGzqKqDSWe4Uhe5C40JGOgP3Dae._5oPguwt16VEtq6f?startTime=1635508803000)
+- [<b> From Jupyter notebook to production web app, with Anvil and (only) Python</b>](https://zoom.us/rec/share/2Aitd9WKLXVBTFDhKhm-xy6aDTnGsZQkUtrGFNXSZP6hS6Z8KjCMI77iTshBvdww.-4EAgxOvtam6Knus?startTime=1635519734000)
+- [<b>Extending Jupyter data visualisations beyond the notebook</b>](https://zoom.us/rec/share/nfrdtSf7DLx1zMDfcikseuTF1iTBwL6JCrtJGumJqHjpIw6DeO6grp3_MHWqtBiE.Rc3TIbYmQSyQTcGH?startTime=1635624013000)
+- [<b>Get to know Apache Kafka with Jupyter notebooks</b>](https://zoom.us/rec/share/YBPWTnWgeomwLhi3lJEltAqC0pByZNHZVBDb-UaQ0ze9M5DDXY9ug3tjtMHAx9Mi.r29uRLuZkgoyw7lp?startTime=1635419402000)
+- [<b>From Jupyter to production: Deploying an influenza monitoring system at scale with wearable sensors</b>](https://zoom.us/rec/share/jgs_uVreG397j3knVpMxUYxn7U5yZMetg4Ts96kkGNzZWd2I4b_XwK8_ABNezxv3.fV94UCmTI0STgwsq?startTime=1635629583000)
 
 ## Version control
-- <b>DVC showcase - Who moved my data?</b>  
-https://zoom.us/rec/share/B-s7RG8DoriAN5V9hcy7oBP9iHVEpzenuLxkX-qutunE0hYCbTZs-VgHh7w5vepF.knt9Zj3CRweGMDp9?startTime=1635418912000
-  - <b>Using reproducible experiments to create better machine learning models (using DVC)</b>  
-https://zoom.us/rec/share/nfrdtSf7DLx1zMDfcikseuTF1iTBwL6JCrtJGumJqHjpIw6DeO6grp3_MHWqtBiE.Rc3TIbYmQSyQTcGH?startTime=1635631103000
-- <b>Think like Git</b>  
-https://zoom.us/rec/share/x1AV6NkGektH8BH_jnLdmMz7tw8M46OkNwEQBKTRVQENyKZKTOq6q8g711uLbq3y.xp-adyJSoMuGJMiE?startTime=1635440466000
+- [<b>DVC showcase - Who moved my data?</b>](https://zoom.us/rec/share/B-s7RG8DoriAN5V9hcy7oBP9iHVEpzenuLxkX-qutunE0hYCbTZs-VgHh7w5vepF.knt9Zj3CRweGMDp9?startTime=1635418912000)
+  - [<b>Using reproducible experiments to create better machine learning models (using DVC)</b>](https://zoom.us/rec/share/nfrdtSf7DLx1zMDfcikseuTF1iTBwL6JCrtJGumJqHjpIw6DeO6grp3_MHWqtBiE.Rc3TIbYmQSyQTcGH?startTime=1635631103000)
+- [<b>Think like Git</b>](https://zoom.us/rec/share/x1AV6NkGektH8BH_jnLdmMz7tw8M46OkNwEQBKTRVQENyKZKTOq6q8g711uLbq3y.xp-adyJSoMuGJMiE?startTime=1635440466000)
 
 ## Documentation
 - <b>Document your scientific project with Markdown, Sphinx, and read the docs</b>  
