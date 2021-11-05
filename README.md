@@ -179,7 +179,7 @@ https://zoom.us/rec/share/ZpR1yHTuV6p2EhLgBDryJbu_XkT-rJRoVIc7mdbxt03P-yVOzAOUvb
 - <b>Computer vision and XAI: Explaining a single prediction with visualisations and examples</b>  
 https://zoom.us/rec/share/ikzMyQEEn1QQzRmotZ-9FlIT-578Xr5HWJjHcnyaKJUhyklfxKWng3jslvZznzaL.Dph4uNCm_muvL4YV?startTime=1635598812000
 
-### Production tools
+### Tools for blissful production
 - <b>Snowflake and Tecton: How to build production-ready machine learning pipelines</b>  
 https://zoom.us/rec/share/0cjbk_YdCTbiTm7gNhzSeNxxTCCEy1pCDUkkjfBjtvOsKGA8XmDOx82jflHdQCUP.fsjQkj5PWSYplOTz?startTime=1635454783000
 - <b>Accelerating ML inference at scale with ONNX, Triton and Tempo</b>  
