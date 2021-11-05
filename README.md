@@ -64,7 +64,7 @@ https://zoom.us/rec/share/x1AV6NkGektH8BH_jnLdmMz7tw8M46OkNwEQBKTRVQENyKZKTOq6q8
 - <b>Document your scientific project with Markdown, Sphinx, and read the docs</b>  
 https://zoom.us/rec/share/Gk1zGa1VGyqSlWpoeJty9O_nstZx0cuVF0ApVzBibmBe-Fh8ZbqBKOpiNzw2lxlL.giLDfc9osjey4Uze?startTime=1635424398000
 
-## Distributive computing
+## Distributive computing (DC)
 - <b>Dask: From POC to production</b>  
 https://zoom.us/rec/share/LTwQxPDBQUhePIwhPK_pWi84ShH1-uMdOc2mURZBm1yxC_MZ2JzbpLE3hxiB--jY.Adlw3HkwGryYxVis?startTime=1635427879000
 - <b>Dask for everyone</b>  
@@ -81,7 +81,7 @@ https://zoom.us/rec/share/x1AV6NkGektH8BH_jnLdmMz7tw8M46OkNwEQBKTRVQENyKZKTOq6q8
 - <b>Simplifying testing of Spark applications</b>  
 https://zoom.us/rec/share/EZY3slKU8aCA3NFwF5z7JPPOhMjBMwLZ7OFMaGFziTDmKYzb8GgSvtzd18VHkA0A.lcjqG1XwevyCdwa9?startTime=1635611402000
 
-### Hands-on intro to distrubutive computing tools
+### Hands-on intro to DC tools
 - <b>High performance Python with Numba, Dask and Rapids for the absolute beginner</b>  
 https://zoom.us/rec/share/HZCezj59UGw88oLmpovnvXIqD2UFBI4louzeNE9VKDZvms66XwqoUZDBncVnPXB-.DyzbErAo6tJc7-CF?startTime=1635605232000
 - <b>Getting started with Dask using Saturn Cloud</b>  
@@ -91,7 +91,7 @@ https://zoom.us/rec/share/MhHxZLi-SMkU3Sewhv7MKLWhgS0y0T7E7xFqAWfukUNdUGtFJFcHxJ
 - <b>Snowflake and Dask: How to scale workloads using distributes fetch capabilities?</b>  
  https://zoom.us/rec/share/bZPPtqNq4c8DMTDptHNnMamVn09gIkgTTPvVmdPOq62yc2i7e4cJwZ0byeC471Ft.qyq5H4W3mdHK1Spg?startTime=1635609671000
 
-### Applications
+### DC applications
 - <b>Spatial analytics using Dask and Numba</b>  
 https://zoom.us/rec/share/pdWvOlS5FcUZUUKk46r-1HUnAUmXSNhR_j9E7k8hpRfY-uw64ErGzgn4NWAAqX7I.HZiPDJEtBW41DCnw?startTime=1635447690000
 - <b>Data infrastructure at the Covid tracking project</b>  
@@ -196,6 +196,12 @@ https://zoom.us/rec/share/IQYqC2B35mC2zB5WyM5yFntjnAbjNLIuTyxV3_72Pq6G2RsCtDhxCt
 https://zoom.us/rec/share/jgs_uVreG397j3knVpMxUYxn7U5yZMetg4Ts96kkGNzZWd2I4b_XwK8_ABNezxv3.fV94UCmTI0STgwsq?startTime=1635624212000
 - <b>What to do when you can't trust your labels? A practical approach</b>  
 https://zoom.us/rec/share/jgs_uVreG397j3knVpMxUYxn7U5yZMetg4Ts96kkGNzZWd2I4b_XwK8_ABNezxv3.fV94UCmTI0STgwsq?startTime=1635625954000
+- <b>Compressive sensing</b>  
+https://zoom.us/rec/share/giuD3cpPl9WDuJQFA4I-6WW4H_GS5l4KQ2jBL8LH1pKVqdEl-gzFMWR7PZWtJQ_B.DOpH5ua19l9FaJYV?startTime=1635405990000
+- <b>Visualisations for privacy preservation: The balancing act between utility and uncertainity</b>  
+https://zoom.us/rec/share/giuD3cpPl9WDuJQFA4I-6WW4H_GS5l4KQ2jBL8LH1pKVqdEl-gzFMWR7PZWtJQ_B.DOpH5ua19l9FaJYV?startTime=1635408149000
+- <b>Anyone GAN do this: Solving the minority class imbalance problem once and for all</b>  
+Recording coming soon
 
 ## Dashboarding
 - <b>Why interactive data visualisation matter for data science in Python</b>  
